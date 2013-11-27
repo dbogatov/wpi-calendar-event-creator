@@ -1,0 +1,476 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C490FCA1846A99B00440D04 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FC91846A99B00440D04 /* Foundation.framework */; };
+		2C490FCC1846A99B00440D04 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FCB1846A99B00440D04 /* CoreGraphics.framework */; };
+		2C490FCE1846A99B00440D04 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FCD1846A99B00440D04 /* UIKit.framework */; };
+		2C490FD41846A99B00440D04 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C490FD21846A99B00440D04 /* InfoPlist.strings */; };
+		2C490FD61846A99B00440D04 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C490FD51846A99B00440D04 /* main.m */; };
+		2C490FDA1846A99B00440D04 /* WPIAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C490FD91846A99B00440D04 /* WPIAppDelegate.m */; };
+		2C490FDD1846A99B00440D04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C490FDB1846A99B00440D04 /* Main.storyboard */; };
+		2C490FE01846A99B00440D04 /* WPIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C490FDF1846A99B00440D04 /* WPIViewController.m */; };
+		2C490FE21846A99B00440D04 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C490FE11846A99B00440D04 /* Images.xcassets */; };
+		2C490FE91846A99B00440D04 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FE81846A99B00440D04 /* XCTest.framework */; };
+		2C490FEA1846A99B00440D04 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FC91846A99B00440D04 /* Foundation.framework */; };
+		2C490FEB1846A99B00440D04 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C490FCD1846A99B00440D04 /* UIKit.framework */; };
+		2C490FF31846A99B00440D04 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C490FF11846A99B00440D04 /* InfoPlist.strings */; };
+		2C490FF51846A99B00440D04 /* WPI_Calendar_Event_CreatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C490FF41846A99B00440D04 /* WPI_Calendar_Event_CreatorTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2C490FEC1846A99B00440D04 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2C490FBE1846A99B00440D04 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2C490FC51846A99B00440D04;
+			remoteInfo = "WPI Calendar Event Creator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2C490FC61846A99B00440D04 /* WPI Calendar Event Creator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WPI Calendar Event Creator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C490FC91846A99B00440D04 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2C490FCB1846A99B00440D04 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2C490FCD1846A99B00440D04 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2C490FD11846A99B00440D04 /* WPI Calendar Event Creator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WPI Calendar Event Creator-Info.plist"; sourceTree = "<group>"; };
+		2C490FD31846A99B00440D04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2C490FD51846A99B00440D04 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2C490FD71846A99B00440D04 /* WPI Calendar Event Creator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WPI Calendar Event Creator-Prefix.pch"; sourceTree = "<group>"; };
+		2C490FD81846A99B00440D04 /* WPIAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WPIAppDelegate.h; sourceTree = "<group>"; };
+		2C490FD91846A99B00440D04 /* WPIAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WPIAppDelegate.m; sourceTree = "<group>"; };
+		2C490FDC1846A99B00440D04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2C490FDE1846A99B00440D04 /* WPIViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WPIViewController.h; sourceTree = "<group>"; };
+		2C490FDF1846A99B00440D04 /* WPIViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WPIViewController.m; sourceTree = "<group>"; };
+		2C490FE11846A99B00440D04 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2C490FE71846A99B00440D04 /* WPI Calendar Event CreatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WPI Calendar Event CreatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C490FE81846A99B00440D04 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		2C490FF01846A99B00440D04 /* WPI Calendar Event CreatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WPI Calendar Event CreatorTests-Info.plist"; sourceTree = "<group>"; };
+		2C490FF21846A99B00440D04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2C490FF41846A99B00440D04 /* WPI_Calendar_Event_CreatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WPI_Calendar_Event_CreatorTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2C490FC31846A99B00440D04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FCC1846A99B00440D04 /* CoreGraphics.framework in Frameworks */,
+				2C490FCE1846A99B00440D04 /* UIKit.framework in Frameworks */,
+				2C490FCA1846A99B00440D04 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C490FE41846A99B00440D04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FE91846A99B00440D04 /* XCTest.framework in Frameworks */,
+				2C490FEB1846A99B00440D04 /* UIKit.framework in Frameworks */,
+				2C490FEA1846A99B00440D04 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C490FBD1846A99B00440D04 = {
+			isa = PBXGroup;
+			children = (
+				2C490FCF1846A99B00440D04 /* WPI Calendar Event Creator */,
+				2C490FEE1846A99B00440D04 /* WPI Calendar Event CreatorTests */,
+				2C490FC81846A99B00440D04 /* Frameworks */,
+				2C490FC71846A99B00440D04 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2C490FC71846A99B00440D04 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FC61846A99B00440D04 /* WPI Calendar Event Creator.app */,
+				2C490FE71846A99B00440D04 /* WPI Calendar Event CreatorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C490FC81846A99B00440D04 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FC91846A99B00440D04 /* Foundation.framework */,
+				2C490FCB1846A99B00440D04 /* CoreGraphics.framework */,
+				2C490FCD1846A99B00440D04 /* UIKit.framework */,
+				2C490FE81846A99B00440D04 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C490FCF1846A99B00440D04 /* WPI Calendar Event Creator */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FD81846A99B00440D04 /* WPIAppDelegate.h */,
+				2C490FD91846A99B00440D04 /* WPIAppDelegate.m */,
+				2C490FDB1846A99B00440D04 /* Main.storyboard */,
+				2C490FDE1846A99B00440D04 /* WPIViewController.h */,
+				2C490FDF1846A99B00440D04 /* WPIViewController.m */,
+				2C490FE11846A99B00440D04 /* Images.xcassets */,
+				2C490FD01846A99B00440D04 /* Supporting Files */,
+			);
+			path = "WPI Calendar Event Creator";
+			sourceTree = "<group>";
+		};
+		2C490FD01846A99B00440D04 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FD11846A99B00440D04 /* WPI Calendar Event Creator-Info.plist */,
+				2C490FD21846A99B00440D04 /* InfoPlist.strings */,
+				2C490FD51846A99B00440D04 /* main.m */,
+				2C490FD71846A99B00440D04 /* WPI Calendar Event Creator-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2C490FEE1846A99B00440D04 /* WPI Calendar Event CreatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FF41846A99B00440D04 /* WPI_Calendar_Event_CreatorTests.m */,
+				2C490FEF1846A99B00440D04 /* Supporting Files */,
+			);
+			path = "WPI Calendar Event CreatorTests";
+			sourceTree = "<group>";
+		};
+		2C490FEF1846A99B00440D04 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2C490FF01846A99B00440D04 /* WPI Calendar Event CreatorTests-Info.plist */,
+				2C490FF11846A99B00440D04 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C490FC51846A99B00440D04 /* WPI Calendar Event Creator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C490FF81846A99B00440D04 /* Build configuration list for PBXNativeTarget "WPI Calendar Event Creator" */;
+			buildPhases = (
+				2C490FC21846A99B00440D04 /* Sources */,
+				2C490FC31846A99B00440D04 /* Frameworks */,
+				2C490FC41846A99B00440D04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WPI Calendar Event Creator";
+			productName = "WPI Calendar Event Creator";
+			productReference = 2C490FC61846A99B00440D04 /* WPI Calendar Event Creator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2C490FE61846A99B00440D04 /* WPI Calendar Event CreatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C490FFB1846A99B00440D04 /* Build configuration list for PBXNativeTarget "WPI Calendar Event CreatorTests" */;
+			buildPhases = (
+				2C490FE31846A99B00440D04 /* Sources */,
+				2C490FE41846A99B00440D04 /* Frameworks */,
+				2C490FE51846A99B00440D04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2C490FED1846A99B00440D04 /* PBXTargetDependency */,
+			);
+			name = "WPI Calendar Event CreatorTests";
+			productName = "WPI Calendar Event CreatorTests";
+			productReference = 2C490FE71846A99B00440D04 /* WPI Calendar Event CreatorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2C490FBE1846A99B00440D04 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = WPI;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Dima4ka;
+				TargetAttributes = {
+					2C490FE61846A99B00440D04 = {
+						TestTargetID = 2C490FC51846A99B00440D04;
+					};
+				};
+			};
+			buildConfigurationList = 2C490FC11846A99B00440D04 /* Build configuration list for PBXProject "WPI Calendar Event Creator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2C490FBD1846A99B00440D04;
+			productRefGroup = 2C490FC71846A99B00440D04 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C490FC51846A99B00440D04 /* WPI Calendar Event Creator */,
+				2C490FE61846A99B00440D04 /* WPI Calendar Event CreatorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2C490FC41846A99B00440D04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FE21846A99B00440D04 /* Images.xcassets in Resources */,
+				2C490FD41846A99B00440D04 /* InfoPlist.strings in Resources */,
+				2C490FDD1846A99B00440D04 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C490FE51846A99B00440D04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FF31846A99B00440D04 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C490FC21846A99B00440D04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FD61846A99B00440D04 /* main.m in Sources */,
+				2C490FE01846A99B00440D04 /* WPIViewController.m in Sources */,
+				2C490FDA1846A99B00440D04 /* WPIAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C490FE31846A99B00440D04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C490FF51846A99B00440D04 /* WPI_Calendar_Event_CreatorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2C490FED1846A99B00440D04 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2C490FC51846A99B00440D04 /* WPI Calendar Event Creator */;
+			targetProxy = 2C490FEC1846A99B00440D04 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2C490FD21846A99B00440D04 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C490FD31846A99B00440D04 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2C490FDB1846A99B00440D04 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C490FDC1846A99B00440D04 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2C490FF11846A99B00440D04 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C490FF21846A99B00440D04 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2C490FF61846A99B00440D04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2C490FF71846A99B00440D04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2C490FF91846A99B00440D04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WPI Calendar Event Creator/WPI Calendar Event Creator-Prefix.pch";
+				INFOPLIST_FILE = "WPI Calendar Event Creator/WPI Calendar Event Creator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2C490FFA1846A99B00440D04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WPI Calendar Event Creator/WPI Calendar Event Creator-Prefix.pch";
+				INFOPLIST_FILE = "WPI Calendar Event Creator/WPI Calendar Event Creator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		2C490FFC1846A99B00440D04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WPI Calendar Event Creator.app/WPI Calendar Event Creator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WPI Calendar Event Creator/WPI Calendar Event Creator-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "WPI Calendar Event CreatorTests/WPI Calendar Event CreatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		2C490FFD1846A99B00440D04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WPI Calendar Event Creator.app/WPI Calendar Event Creator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WPI Calendar Event Creator/WPI Calendar Event Creator-Prefix.pch";
+				INFOPLIST_FILE = "WPI Calendar Event CreatorTests/WPI Calendar Event CreatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2C490FC11846A99B00440D04 /* Build configuration list for PBXProject "WPI Calendar Event Creator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C490FF61846A99B00440D04 /* Debug */,
+				2C490FF71846A99B00440D04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C490FF81846A99B00440D04 /* Build configuration list for PBXNativeTarget "WPI Calendar Event Creator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C490FF91846A99B00440D04 /* Debug */,
+				2C490FFA1846A99B00440D04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		2C490FFB1846A99B00440D04 /* Build configuration list for PBXNativeTarget "WPI Calendar Event CreatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C490FFC1846A99B00440D04 /* Debug */,
+				2C490FFD1846A99B00440D04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2C490FBE1846A99B00440D04 /* Project object */;
+}
