@@ -61,6 +61,7 @@
             NSLog(@"ERROR in alert");
             break;
     }
+    
     [model.data setValue:[NSNumber numberWithInt:time] forKey:@"Alert Number"];
 }
 
