@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>The Washburn Shops</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>washburn_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stratton Hall</string>
+		<key>Short Name</key>
+		<string>SH</string>
+		<key>Photo</key>
+		<string>stratton_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stoddard Complex</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>Stoddard2012_6</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sports &amp; Recreation Center Complex</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>sports-and-recreation-center-complex</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Skull Tomb</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>skull_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sanford Riley Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>sanford2012_2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Salisbury Laboratories</string>
+		<key>Short Name</key>
+		<string>SL</string>
+		<key>Photo</key>
+		<string>salisbury_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Quadrangle</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>quad_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Project Center</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>_DSC7953_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Power Plant</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>power_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Police Station</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>founders_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Olin Hall</string>
+		<key>Short Name</key>
+		<string>OH</string>
+		<key>Photo</key>
+		<string>olin_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Morgan Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>Morgan2012_4</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kaven Hall and Institute Park</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>kaven_rdax_300x199</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>International House</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>international_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Institute Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>institute-picture1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Higgins Laboratories</string>
+		<key>Short Name</key>
+		<string>HL</string>
+		<key>Photo</key>
+		<string>higgins_labs_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Higgins House</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>higgins_house_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Harrington Auditorium</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>wpi-harrington-auditorium-bleachers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Goddard Hall</string>
+		<key>Short Name</key>
+		<string>GH</string>
+		<key>Photo</key>
+		<string>goddard_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>George C. Gordon Library</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>gordon_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fuller Laboratories</string>
+		<key>Short Name</key>
+		<string>FL</string>
+		<key>Photo</key>
+		<string>fuller_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Freeman &amp; Reunion Plazas</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>plazas_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Founders Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>founders-picture1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ellsworth-Fuller Apartments</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>ellsworth2012_7</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>East Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>easthall_rdax_300x225</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Earle Bridge</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>earle_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Donahue Rowing Center</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>WP-Oct11--361</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Daniels Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>daniels2012_1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Collegiate Religious Center</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>crc_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Rubin Campus Center</string>
+		<key>Short Name</key>
+		<string>CC</string>
+		<key>Photo</key>
+		<string>cc_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Boynton Hall</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>boynton_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Atwater Kent Laboratories</string>
+		<key>Short Name</key>
+		<string>AK</string>
+		<key>Photo</key>
+		<string>atwater_rdax_300x199</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alden Memorial</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>alden_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>A.J. Knight Tennis Courts &amp; Throwing Area</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>DSC09569</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>afas_rdax_300x200</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>26 Hackfeld</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>hackfield</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>25 Trowbridge</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>trowbridge-picture</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>22 Schussler</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>schussler_rdax_300x227</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>16 Elbridge</string>
+		<key>Short Name</key>
+		<string>none</string>
+		<key>Photo</key>
+		<string>elbridge_rdax_300x227</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fuller Laboratories</string>
+		<key>Short Name</key>
+		<string>FL</string>
+		<key>Photo</key>
+		<string>fl</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Olin Hall</string>
+		<key>Short Name</key>
+		<string>OH</string>
+		<key>Photo</key>
+		<string>oh</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Campus Center</string>
+		<key>Short Name</key>
+		<string>CC</string>
+		<key>Photo</key>
+		<string>cc</string>
+	</dict>
+</array>
+</plist>

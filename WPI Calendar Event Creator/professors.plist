@@ -1,0 +1,5130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Ivon Arroyo</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 317A</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>Ivon_Arroyo_Faculty_Picture_rdax_161x239</string>
+		<key>Email</key>
+		<string>iarroyo@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ryan S.J.d. Baker</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 317A</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-baker-profile</string>
+		<key>Email</key>
+		<string>rsbaker@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James Kevin Doyle</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 311</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ess-doyle-formal</string>
+		<key>Email</key>
+		<string>doyle@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Laureen Elgert</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 310E</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ess-profile-elgert</string>
+		<key>Email</key>
+		<string>lelgert@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Janice Gobert</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 317D</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>jgobice-profile</string>
+		<key>Email</key>
+		<string>jgobert@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Melissa-Sue John</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 317B</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-john-profile</string>
+		<key>Email</key>
+		<string>mjohn@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Oleg V. Pavlov</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 310A</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-pavlov-formal</string>
+		<key>Email</key>
+		<string>opavlov@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael Radzicki</string>
+		<key>Office</key>
+		<string>Salisbury Labs, 311C</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-radzicki-formal</string>
+		<key>Email</key>
+		<string>mjradz@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kent J. Rissmiller</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 315</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ess-rissmiller-profile</string>
+		<key>Email</key>
+		<string>kjr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Khalid Saeed</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ess-profile-saeed</string>
+		<key>Email</key>
+		<string>saeed@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jeanine Skorinko</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 317C</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-skorinko-formal</string>
+		<key>Email</key>
+		<string>skorinko@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alexander Smith</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 310B</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-smith-profile</string>
+		<key>Email</key>
+		<string>adksmith@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Patricia A. Stapleton</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 223B</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>Stapleton_Informal-001_rdax_161x121</string>
+		<key>Email</key>
+		<string>pastapleton@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James P. Thompson</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 315</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-thompson-profile</string>
+		<key>Email</key>
+		<string>jpthomspon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John McCamy Wilkes</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 310F</string>
+		<key>Department</key>
+		<string>Social Science and Policy Studies</string>
+		<key>Photo</key>
+		<string>ssps-wilkes-profile</string>
+		<key>Email</key>
+		<string>jmwilkes@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mark P. Rice</string>
+		<key>Office</key>
+		<string>50 Prescott, 1332</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>new-faculty-profile-rice</string>
+		<key>Email</key>
+		<string>rice@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Karen A. Hebert-Maccaro</string>
+		<key>Office</key>
+		<string>50 Prescott, 1311</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>hebert-maccaro-karen_rdax_161x242</string>
+		<key>Email</key>
+		<string>kmaccaro@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Soussan Djamasbi</string>
+		<key>Office</key>
+		<string>Washburn Shops, 216c</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>soussan-djamasbi-large_rdax_161x241</string>
+		<key>Email</key>
+		<string>djamasbi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael B. Elmes</string>
+		<key>Office</key>
+		<string>Washburn Shops, 203</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>michael-elmes-large_rdax_161x230</string>
+		<key>Email</key>
+		<string>mbelmes@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brent E. French</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>brent</string>
+		<key>Email</key>
+		<string>befrench@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Arthur &quot;Art&quot; Gerstenfeld</string>
+		<key>Office</key>
+		<string>50 Prescott, 1317</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>ag@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Edward M. Gonsalves</string>
+		<key>Office</key>
+		<string>Washburn Shops, 217</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>gonsalves-edward09_rdax_161x242</string>
+		<key>Email</key>
+		<string>egonsal@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richard C. Gram</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>rgram@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John W. Hedly</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>hedley-profile</string>
+		<key>Email</key>
+		<string>jhedly@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Huong N Higgins</string>
+		<key>Office</key>
+		<string>Washburn Shops, 306</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>WP_Aug12_297_rdax_161x225</string>
+		<key>Email</key>
+		<string>hhiggins@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Frank Hoy</string>
+		<key>Office</key>
+		<string>50 Prescott, 1319</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>hoy_rdax_161x187</string>
+		<key>Email</key>
+		<string>fhoy@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sharon A. Johnson</string>
+		<key>Office</key>
+		<string>Washburn Shops, 223</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>johnson-large-new</string>
+		<key>Email</key>
+		<string>sharon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Chickery &quot;Chick&quot; J. Kasouf</string>
+		<key>Office</key>
+		<string>50 Prescott, 1318</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>formal-kasaouf-profile</string>
+		<key>Email</key>
+		<string>chick@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Renata Konrad</string>
+		<key>Office</key>
+		<string>Washburn Shops, 205</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>renata-konrad-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>rkonrad@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dimitrios Koutmos</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>dkoutmos_rdax_161x186</string>
+		<key>Email</key>
+		<string>dkoutmos@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William &quot;Bill&quot; A. Krein</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>krein-large_rdax_161x107</string>
+		<key>Email</key>
+		<string>wakrein@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Eleanor T. Loiacono</string>
+		<key>Office</key>
+		<string>Washburn Shops, 209</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>loiacono-eleanor-large_rdax_161x247</string>
+		<key>Email</key>
+		<string>eloiacon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert P. Lombardi</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>rlombardi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James P. McKenna</string>
+		<key>Office</key>
+		<string>Washburn Shops, 216C</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>mckenna_rdax_161x226</string>
+		<key>Email</key>
+		<string>mckenna@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Karla Mendoza-Abarca</string>
+		<key>Office</key>
+		<string>50 Prescott, 1331</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>karla_mendoza_formal_rdax_161x235</string>
+		<key>Email</key>
+		<string>kmendozaabarca@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fabienne Miller</string>
+		<key>Office</key>
+		<string>Washburn Shops, 302</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>miller-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>fabienne@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph Sarkis</string>
+		<key>Office</key>
+		<string>50 Prescott, Room 1316</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>jsarkis</string>
+		<key>Email</key>
+		<string>jsarkis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jerome &quot;Jerry&quot; J. Schaufeld</string>
+		<key>Office</key>
+		<string>Washburn Shops, 103</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>jerry-schaufeld-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>jjs@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William C. Stitt</string>
+		<key>Office</key>
+		<string>50 Prescott, 1314</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>wstitt</string>
+		<key>Email</key>
+		<string>wstitt@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diane M Strong</string>
+		<key>Office</key>
+		<string>Washburn Shops, 205</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>dianestronglarge</string>
+		<key>Email</key>
+		<string>dstrong@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Walter &quot;Wally&quot; Towner</string>
+		<key>Office</key>
+		<string>Washburn Shops, 222</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>wtowner-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>fabman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William &quot;Bill&quot; F. Troy</string>
+		<key>Office</key>
+		<string>Washburn Shops, 216C</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>wftroy3@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bengisu Tulu</string>
+		<key>Office</key>
+		<string>Washburn Shops, 201</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>tulu_rdax_161x242</string>
+		<key>Email</key>
+		<string>bengisu@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Helen G. Vassallo</string>
+		<key>Office</key>
+		<string>Washburn Shops, 202</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>helen-vassello-large</string>
+		<key>Email</key>
+		<string>vassallo@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Justin Wang</string>
+		<key>Office</key>
+		<string>Washburn Shops, 303</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>wang-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>jwang@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kenneth Wermann</string>
+		<key>Office</key>
+		<string>Washburn Shops</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>kwermann@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>E. Vance Wilson</string>
+		<key>Office</key>
+		<string>Washburn Shops, 102</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>vance-wilson-large_rdax_161x193</string>
+		<key>Email</key>
+		<string>vwilson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gerard &quot;Gerry&quot; Wilson</string>
+		<key>Office</key>
+		<string>Washburn Shops, 216C</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>gwilson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shari L. Worthington</string>
+		<key>Office</key>
+		<string>Washburn Shops, 216C</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>sworthington-new-large_rdax_161x238</string>
+		<key>Email</key>
+		<string>sharilee@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sharon A. Wulf</string>
+		<key>Office</key>
+		<string>Life Sciences and Bioengineering Center, 1328</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>sawulf@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Amy Z. Zeng</string>
+		<key>Office</key>
+		<string>Washburn Shops, 308</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>large-zeng_rdax_161x242</string>
+		<key>Email</key>
+		<string>azeng@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joe Zhu</string>
+		<key>Office</key>
+		<string>Washburn Shops, 301</string>
+		<key>Department</key>
+		<string>School of Business</string>
+		<key>Photo</key>
+		<string>zhu-faclisting</string>
+		<key>Email</key>
+		<string>jzhu@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Padmanabhan K. Aravind</string>
+		<key>Office</key>
+		<string>Olin Hall, 212B</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-informalprofile-padamanabhan</string>
+		<key>Email</key>
+		<string>paravind@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nancy A. Burnham</string>
+		<key>Office</key>
+		<string>Olin Hall, 219</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-formal-burnham</string>
+		<key>Email</key>
+		<string>nab@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Frank A. Dick</string>
+		<key>Office</key>
+		<string>Olin Hall, 213C</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-dick-formal</string>
+		<key>Email</key>
+		<string>fdick@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Germano S. Iannacchione</string>
+		<key>Office</key>
+		<string>Olin Hall, 120</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-iannacchione-formal</string>
+		<key>Email</key>
+		<string>gsiannac@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hektor Kashuri</string>
+		<key>Office</key>
+		<string>Olin Hall, 004</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-kashuri-profile</string>
+		<key>Email</key>
+		<string>hkashuri@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David Christopher Medich</string>
+		<key>Office</key>
+		<string>Olin Hall, 127</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>Medich-WPI-portrait</string>
+		<key>Email</key>
+		<string>dcmedich@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>George D. J. Phillies</string>
+		<key>Office</key>
+		<string>Olin Hall, 130</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-phillies-formal</string>
+		<key>Email</key>
+		<string>phillies@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marko B. Popovic</string>
+		<key>Office</key>
+		<string>Olin Hall, 215</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>rbe-profile-popovic</string>
+		<key>Email</key>
+		<string>mpopovic@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richard S. Quimby</string>
+		<key>Office</key>
+		<string>Olin Hall, 128</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-quimby-formal</string>
+		<key>Email</key>
+		<string>rsquimby@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>L. Ramdas Ram-Mohan</string>
+		<key>Office</key>
+		<string>Olin Hall, 224</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-ram-mohan-formal</string>
+		<key>Email</key>
+		<string>lrram@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sabyasachi Sarkar</string>
+		<key>Office</key>
+		<string>Olin Hall, 215</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-sarkar-formal</string>
+		<key>Email</key>
+		<string>ssarkar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Izabela Stroe</string>
+		<key>Office</key>
+		<string>Olin Hall, 222</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-stroe-formal</string>
+		<key>Email</key>
+		<string>izabela@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Vasfiye Hande Tüzel</string>
+		<key>Office</key>
+		<string>Olin Hall, 301</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-tuzel2-profile</string>
+		<key>Email</key>
+		<string>htuzel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Erkan Tüzel</string>
+		<key>Office</key>
+		<string>Olin Hall, 220</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-tuzel-profile</string>
+		<key>Email</key>
+		<string>etuzel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Qi Wen</string>
+		<key>Office</key>
+		<string>Olin Hall, 213A</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-wen-formal</string>
+		<key>Email</key>
+		<string>qwen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alexei A. Zozulya</string>
+		<key>Office</key>
+		<string>Olin Hall, 213B</string>
+		<key>Department</key>
+		<string>Physics</string>
+		<key>Photo</key>
+		<string>physics-zozulya-formal</string>
+		<key>Email</key>
+		<string>zozulya@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Philip Grebinar</string>
+		<key>Office</key>
+		<string>Alumni Gymnasium</string>
+		<key>Department</key>
+		<string>Physical Education</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>grebinar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Normand A. Gauthier</string>
+		<key>Office</key>
+		<string>Harrington Auditorium</string>
+		<key>Department</key>
+		<string>Military Science</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>gauthier@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fiona C. Levey</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, HL104</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>fclevey@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Anthony B Linn</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 240</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>WP_Aug13_068_rdax_161x242</string>
+		<key>Email</key>
+		<string>ablinn@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yuxiang Shawn Liu</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, Room 110</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>Yuxiang_Liu_rdax_161x160</string>
+		<key>Email</key>
+		<string>yliu11@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pratap Mahesh Rao</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, Room 106</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>pratapDSC_0854_rdax_161x161</string>
+		<key>Email</key>
+		<string>pmrao@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>M. Mahdi Agheli H.</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, Room 109</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>DSCN0556</string>
+		<key>Email</key>
+		<string>mmaghelih@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Holly K. Ault</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 208</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-ault-profile</string>
+		<key>Email</key>
+		<string>hkault@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diran Apelian</string>
+		<key>Office</key>
+		<string>Washburn Shops, 326</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-apelian-profile</string>
+		<key>Email</key>
+		<string>dapelian@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Isa Bar-On</string>
+		<key>Office</key>
+		<string>Washburn Shops, 224</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-bar-on-formal</string>
+		<key>Email</key>
+		<string>ibaron@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John Joseph Blandino</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 239</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>JBlandino_020206_rdax_161x136</string>
+		<key>Email</key>
+		<string>blandino@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Christopher A. Brown</string>
+		<key>Office</key>
+		<string>Washburn Shops, 235</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-brown-profile</string>
+		<key>Email</key>
+		<string>brown@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Maria Chierichetti</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 246</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-chierichetti-profile</string>
+		<key>Email</key>
+		<string>mchierichetti@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Martha Cyr</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 233</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-cyr-profile</string>
+		<key>Email</key>
+		<string>mcyr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael A. Demetriou</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 243</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-demetriou-profile</string>
+		<key>Email</key>
+		<string>mdemetri@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Chrysanthe Demetry</string>
+		<key>Office</key>
+		<string>Gordon Library, 302</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-demetry-profile</string>
+		<key>Email</key>
+		<string>cdemetry@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mikhail F. Dimentberg</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 212</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-dimentberg-profile</string>
+		<key>Email</key>
+		<string>diment@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gregory S. Fischer</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 206</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>rbe-profile-fischer</string>
+		<key>Email</key>
+		<string>gfischer@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mustapha S. Fofana</string>
+		<key>Office</key>
+		<string>Washburn Shops, 311B</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-mfofana-profile</string>
+		<key>Email</key>
+		<string>msfofana@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cosme Furlong</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 151</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-furlong-profile</string>
+		<key>Email</key>
+		<string>cfurlong@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nikolaos A. Gatsonis</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 244</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-gatsonis-profile</string>
+		<key>Email</key>
+		<string>gatsonis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Allen H. Hoffman</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 107</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-hoffman-formal</string>
+		<key>Email</key>
+		<string>ahoffman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Zhikun Hou</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 209</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-hou-profile</string>
+		<key>Email</key>
+		<string>hou@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Charles L. Innis</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 153</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-innis-profile</string>
+		<key>Email</key>
+		<string>cinnis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diana A. Lados</string>
+		<key>Office</key>
+		<string>Washburn Shops, 319</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-lados-profile</string>
+		<key>Email</key>
+		<string>lados@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jianyu Liang</string>
+		<key>Office</key>
+		<string>Washburn Shops, 311A</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-liang-profile</string>
+		<key>Email</key>
+		<string>jianyul@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Makhlouf M. Makhlouf</string>
+		<key>Office</key>
+		<string>Washburn Shops, 334</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-makhlouf-profile</string>
+		<key>Email</key>
+		<string>mmm@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stephen S. Nestinger</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 210</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>rbe-profile-nestinger</string>
+		<key>Email</key>
+		<string>ssnestinger@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David J. Olinger</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 242</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-olinger-profile</string>
+		<key>Email</key>
+		<string>olinger@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cagdas Onal</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 105</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-onal-profile</string>
+		<key>Email</key>
+		<string>cdonal@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mahadevan Padmanabhan</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 213</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-padmanabhan-profile</string>
+		<key>Email</key>
+		<string>padu@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David Clifton Planchard</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 201</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-planchard-profile(1)</string>
+		<key>Email</key>
+		<string>planchard@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ryszard Jan Pryputniewicz</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 152</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-pryputniewicz-profile</string>
+		<key>Email</key>
+		<string>rjp@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mark W. Richman</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 245</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-richman-profile</string>
+		<key>Email</key>
+		<string>mrichman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yiming &quot;Kevin&quot; Rong</string>
+		<key>Office</key>
+		<string>Washburn Shops, 307</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>rbe-rong-formal</string>
+		<key>Email</key>
+		<string>rong@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brian J. Savilonis</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 108</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-salvilonis-profile</string>
+		<key>Email</key>
+		<string>bjs@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Christopher Scarpino</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 153</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-scarpino-profile</string>
+		<key>Email</key>
+		<string>cscarpino@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Satya Shivkumar</string>
+		<key>Office</key>
+		<string>Washburn Shops, 227</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-shivkumar-profile</string>
+		<key>Email</key>
+		<string>shivkuma@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richard D. Sisson</string>
+		<key>Office</key>
+		<string>Washburn Shops, 246B</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-sisson-profile</string>
+		<key>Email</key>
+		<string>sisson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kenneth Alan Stafford</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 011</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>rbe-stafford-profile</string>
+		<key>Email</key>
+		<string>stafford@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John M. Sullivan</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 109</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-sullivan-profile</string>
+		<key>Email</key>
+		<string>sullivan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yan Wang</string>
+		<key>Office</key>
+		<string>Washburn Shops, 238</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-wang-profile</string>
+		<key>Email</key>
+		<string>yanwang@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jamal S. Yagoobi</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 130</string>
+		<key>Department</key>
+		<string>Mechanical Engineering</string>
+		<key>Photo</key>
+		<string>me-yagoobi-profile</string>
+		<key>Email</key>
+		<string>jyagoobi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jon Abraham</string>
+		<key>Office</key>
+		<string>Stratton Hall, 105D</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>Jon_Abraham_001_rdax_161x241</string>
+		<key>Email</key>
+		<string>jabraham@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mihhail Berezovski</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 408A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>berezovski_m_2013_rdax_161x242</string>
+		<key>Email</key>
+		<string>mberezovski@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dilli Bhatta</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 405A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>Dilli_Bhatta_rdax_161x91</string>
+		<key>Email</key>
+		<string>drb122@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Maxim Bichuch</string>
+		<key>Office</key>
+		<string>Stratton Hall, 305D</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>mbichuch@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marcel Y. Blais</string>
+		<key>Office</key>
+		<string>Stratton Hall, 104A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>myblais@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Luca Capogna</string>
+		<key>Office</key>
+		<string>Stratton Hall, Room 108</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>lucacapogna</string>
+		<key>Email</key>
+		<string>lcapogna@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Peter R. Christopher</string>
+		<key>Office</key>
+		<string>Stratton Hall, 305B</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-christopher</string>
+		<key>Email</key>
+		<string>peterrc@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Paul W. Davis</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 405F</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>pwdavis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William W. Farr</string>
+		<key>Office</key>
+		<string>Stratton Hall, 105A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-farr</string>
+		<key>Email</key>
+		<string>bfarr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph D. Fehribach</string>
+		<key>Office</key>
+		<string>Stratton Hall, 201C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>bach@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jacob Gagnon</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 405D</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-profile-gagnon</string>
+		<key>Email</key>
+		<string>jgagnon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John A. Goulet</string>
+		<key>Office</key>
+		<string>Stratton Hall, 201A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>goulet@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Qi Han</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 405A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>qhan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Arthur C. Heinricher</string>
+		<key>Office</key>
+		<string>Boynton Hall, 108A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-heinricher</string>
+		<key>Email</key>
+		<string>heinrich@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mayer Humi</string>
+		<key>Office</key>
+		<string>Stratton Hall, 303</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-profile-humi</string>
+		<key>Email</key>
+		<string>mhumi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sungsu Kim</string>
+		<key>Office</key>
+		<string>Stratton Hall, 201B</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>skim2@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Christopher Larsen</string>
+		<key>Office</key>
+		<string>Stratton Hall, 011</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>Larsen</string>
+		<key>Email</key>
+		<string>cjlarsen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fernando Lopez Garcia</string>
+		<key>Office</key>
+		<string>Stratton Hall, 305A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-lopez-garcia</string>
+		<key>Email</key>
+		<string>flopezgarcia@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Roger Lui</string>
+		<key>Office</key>
+		<string>Stratton Hall, 105B</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>rlui@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Konstantin A. Lurie</string>
+		<key>Office</key>
+		<string>Stratton Hall, 010</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-lurie</string>
+		<key>Email</key>
+		<string>klurie@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>J. J. Malone</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 405F</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-malone</string>
+		<key>Email</key>
+		<string>jjmalone@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William J. Martin</string>
+		<key>Office</key>
+		<string>Stratton Hall, 302A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-martin</string>
+		<key>Email</key>
+		<string>martin@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Umberto Mosco</string>
+		<key>Office</key>
+		<string>Stratton Hall, 307</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-mosco</string>
+		<key>Email</key>
+		<string>mosco@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Balgobin Nandram</string>
+		<key>Office</key>
+		<string>Stratton Hall, 103</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>balnan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sarah D. Olson</string>
+		<key>Office</key>
+		<string>Stratton Hall, 302</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-olson</string>
+		<key>Email</key>
+		<string>sdolson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph D. Petruccelli</string>
+		<key>Office</key>
+		<string>Stratton Hall, 105C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-petruccelli</string>
+		<key>Email</key>
+		<string>jdp@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marcus Sarkis</string>
+		<key>Office</key>
+		<string>Stratton Hall, 206</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-sarkis</string>
+		<key>Email</key>
+		<string>msarkis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Herman J. Servatius</string>
+		<key>Office</key>
+		<string>Stratton Hall, 305C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>hservat@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brigitte Servatius</string>
+		<key>Office</key>
+		<string>Stratton Hall, 305C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-servatius</string>
+		<key>Email</key>
+		<string>bservat@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stephan Sturm</string>
+		<key>Office</key>
+		<string>Stratton Hall, 202C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>stephan_sturm_formal</string>
+		<key>Email</key>
+		<string>ssturm@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dalin Tang</string>
+		<key>Office</key>
+		<string>Stratton Hall, 202E</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-profile-tang</string>
+		<key>Email</key>
+		<string>dtang@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Burt S. Tilley</string>
+		<key>Office</key>
+		<string>Stratton Hall, 202A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-profile-tilley</string>
+		<key>Email</key>
+		<string>tilley@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Darko Volkov</string>
+		<key>Office</key>
+		<string>Stratton Hall, 104B</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-darko</string>
+		<key>Email</key>
+		<string>darko@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Homer F. Walker</string>
+		<key>Office</key>
+		<string>Stratton Hall, 009A</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>Homer_Walker_rdax_161x242</string>
+		<key>Email</key>
+		<string>walker@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Suzanne L. Weekes</string>
+		<key>Office</key>
+		<string>Stratton Hall, 109B</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-weekes</string>
+		<key>Email</key>
+		<string>sweekes@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Zheyang Wu</string>
+		<key>Office</key>
+		<string>Stratton Hall, 101</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-profile-wu</string>
+		<key>Email</key>
+		<string>zheyangwu@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Vadim V. Yakovlev</string>
+		<key>Office</key>
+		<string>Stratton Hall, 104C</string>
+		<key>Department</key>
+		<string>Mathematical Sciences</string>
+		<key>Photo</key>
+		<string>math-formal-yakovlev_rdax_161x161</string>
+		<key>Email</key>
+		<string>vadim@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Melissa M. Belz</string>
+		<key>Office</key>
+		<string>Project Center, 210A</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>Belz_mug_alt_rdax_161x143</string>
+		<key>Email</key>
+		<string>mbelz@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fabio Carrera</string>
+		<key>Office</key>
+		<string>Project Center, 214B</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>igsd-carrera-profile</string>
+		<key>Email</key>
+		<string>carrera@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Corey Denenberg Dehner</string>
+		<key>Office</key>
+		<string>Project Center, 210B</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>cdehner-igsd</string>
+		<key>Email</key>
+		<string>cdehner@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dominic Golding</string>
+		<key>Office</key>
+		<string>Project Center, 212</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>dgolding-profile</string>
+		<key>Email</key>
+		<string>golding@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert Hersh</string>
+		<key>Office</key>
+		<string>Project Center, 211b</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>hersh@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scott Jiusto</string>
+		<key>Office</key>
+		<string>Project Center, 205</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>ess-formal-jiusto</string>
+		<key>Email</key>
+		<string>sjiusto@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Creighton R. Peet</string>
+		<key>Office</key>
+		<string>Project Center, 214A</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>ess-profile-peet</string>
+		<key>Email</key>
+		<string>cpeet@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ingrid K. Shockey</string>
+		<key>Office</key>
+		<string>Project Center, 209</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>ess-profile-shockey</string>
+		<key>Email</key>
+		<string>ishockey@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Seth P. Tuler</string>
+		<key>Office</key>
+		<string>Project Center, 211A</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>ess-profile-tuler</string>
+		<key>Email</key>
+		<string>stuler@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richard F. Vaz</string>
+		<key>Office</key>
+		<string>Project Center, 2nd Floor</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>lae-vaz-profile</string>
+		<key>Email</key>
+		<string>vaz@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Susan Vernon-Gerstenfeld</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 331</string>
+		<key>Department</key>
+		<string>Interdisciplinary and Global Studies</string>
+		<key>Photo</key>
+		<string>svg-profile</string>
+		<key>Email</key>
+		<string>svg@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>W. A. Bland Addison, Jr.</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 238</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-addison-profile</string>
+		<key>Email</key>
+		<string>addison@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William A. Baller</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 408C</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-baller-formal</string>
+		<key>Email</key>
+		<string>baller@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scott Barton</string>
+		<key>Office</key>
+		<string>Alden Memorial, 208</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-barton-profile</string>
+		<key>Email</key>
+		<string>sdbarton@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Esther F. Boucher-Yip</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 022</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-boucher-profile</string>
+		<key>Email</key>
+		<string>efboucher@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kristin Boudreau</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 125</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-boudreau-formal</string>
+		<key>Email</key>
+		<string>kboudreau@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joel J. Brattin</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 24</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-brattin-formal</string>
+		<key>Email</key>
+		<string>jjb@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ulrike Brisson</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 333</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-brisson-profile</string>
+		<key>Email</key>
+		<string>ubrisson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Steven C. Bullock</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 235</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-bullock-formal</string>
+		<key>Email</key>
+		<string>sbullock@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Constance Clark</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 408D</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-clark-formal</string>
+		<key>Email</key>
+		<string>cclark@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jim Cocola</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 26</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-cocola-profile</string>
+		<key>Email</key>
+		<string>jcocola@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John F. Delorey</string>
+		<key>Office</key>
+		<string>Alden Memorial, B30</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-deloray-profile</string>
+		<key>Email</key>
+		<string>jfd@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James Dempsey</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 332</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-dempsey-profile</string>
+		<key>Email</key>
+		<string>jdempsey@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jennifer deWinter</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 15</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-dewinter-formal</string>
+		<key>Email</key>
+		<string>jdewinter@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David B. Dollenmayer</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 333</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>IMG_0103_rdax_161x161</string>
+		<key>Email</key>
+		<string>dbd@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Beth Eddy</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 223E</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-eddy-profile</string>
+		<key>Email</key>
+		<string>bleddy@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michelle Ephraim</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 237</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-ephraim-formal</string>
+		<key>Email</key>
+		<string>ephraim@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brenton Faber</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 19</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-faber-profile</string>
+		<key>Email</key>
+		<string>bdfaber@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Frederick W. Bianchi</string>
+		<key>Office</key>
+		<string>Alden Memorial, 205</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-bianchi-profile</string>
+		<key>Email</key>
+		<string>bianchi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richard Falco</string>
+		<key>Office</key>
+		<string>Alden Memorial, 210</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-falco-formal</string>
+		<key>Email</key>
+		<string>rfalco@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph Farbrook</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 207</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-farbrook-profile</string>
+		<key>Email</key>
+		<string>farbrook@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jeffrey Forgeng</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 08</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>imgd-forgeng-profile</string>
+		<key>Email</key>
+		<string>jforgeng@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Roger S. Gottlieb</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 04</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>ess-profile-gottlieb</string>
+		<key>Email</key>
+		<string>gottlieb@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James P. Hanlan</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 028</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-hanlan-profile</string>
+		<key>Email</key>
+		<string>jphanlan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Erika A. S. Hanlan</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 18</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-stone-formal</string>
+		<key>Email</key>
+		<string>erikastone@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Peter H. Hansen</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 107</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-hansen-formal</string>
+		<key>Email</key>
+		<string>phansen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lorraine D. Higgins</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, SL20</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-higgins-formal</string>
+		<key>Email</key>
+		<string>LDH@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scott Jiusto</string>
+		<key>Office</key>
+		<string>Project Center, 205</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>ess-formal-jiusto</string>
+		<key>Email</key>
+		<string>sjiusto@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kent P. Ljungquist</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, SL223D</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>huas-ljungquist-formal</string>
+		<key>Email</key>
+		<string>kpl@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ryan Smith Madan</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 02</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-madan2-formal</string>
+		<key>Email</key>
+		<string>ryanmadan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Aarti S. Madan</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 03</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-madan-formal</string>
+		<key>Email</key>
+		<string>amadan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Vincent &quot;V.J.&quot; Manzo</string>
+		<key>Office</key>
+		<string>Alden Memorial, 209</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-manzo-headshot</string>
+		<key>Email</key>
+		<string>vjmanzo@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ingrid E. Matos-Nin</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 5</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-matos-nin-profile</string>
+		<key>Email</key>
+		<string>imatos@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jennifer McWeeny</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 330</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-mcweeny-profile</string>
+		<key>Email</key>
+		<string>jmcweeny@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Wesley T. Mott</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 236</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-mott-profile</string>
+		<key>Email</key>
+		<string>wmott@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Svetlana Nikitina</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 35</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-nikitina-profile</string>
+		<key>Email</key>
+		<string>svetlana@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Geoffrey Pfeifer</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 22</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-pfeifer-profile</string>
+		<key>Email</key>
+		<string>gpfeifer@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tina-Marie Ranalli</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 238</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>tranalli@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Angel A. Rivera</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 016</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-rivera-profile</string>
+		<key>Email</key>
+		<string>arivera@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tom Robertson</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 234</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>ess-robertson-profile</string>
+		<key>Email</key>
+		<string>tbr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Josh Pablo Rosenstock</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 208</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-rosenstock-formal</string>
+		<key>Email</key>
+		<string>jrosen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jennifer M. Rudolph</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 408B</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-rudolph-formal</string>
+		<key>Email</key>
+		<string>jrudolph@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scott P. Runstrom</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 106</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>pw-runstrom-profile</string>
+		<key>Email</key>
+		<string>runstrom@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>M. David Samson</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 014</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-samson-formal</string>
+		<key>Email</key>
+		<string>samson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John Sanbonmatsu</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 23</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-sanbonmatsu-profile</string>
+		<key>Email</key>
+		<string>js@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lance Schachterle</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 027</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-schachterle-formal</string>
+		<key>Email</key>
+		<string>les@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Eunmi Shim</string>
+		<key>Office</key>
+		<string>Alden Memorial, 211</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-shim-profile</string>
+		<key>Email</key>
+		<string>eshim@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ruth Lynette Smith</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 108</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-smith-formal</string>
+		<key>Email</key>
+		<string>rsmith@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David I. Spanagel</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 239</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-spanagel-formal</string>
+		<key>Email</key>
+		<string>spanagel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Susan Vick</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 17</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-vick-formal</string>
+		<key>Email</key>
+		<string>svick@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Douglas G. Weeks</string>
+		<key>Office</key>
+		<string>Alden Memorial, 212</string>
+		<key>Department</key>
+		<string>Humanities and Arts</string>
+		<key>Photo</key>
+		<string>hua-weeks-formal</string>
+		<key>Email</key>
+		<string>dweeks@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nicholas A. Dembsey</string>
+		<key>Office</key>
+		<string>Gateway Park, II 1212</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>dembsey-formal_rdax_161x241</string>
+		<key>Email</key>
+		<string>ndembsey@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brian J. Meacham</string>
+		<key>Office</key>
+		<string>50 Prescott, 1213</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>brian-meacham-formal_rdax_161x121</string>
+		<key>Email</key>
+		<string>bmeacham@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kathy A. Notarianni</string>
+		<key>Office</key>
+		<string>50 Prescott, 111</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>notoriana-profile</string>
+		<key>Email</key>
+		<string>kanfpe@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Milosh Puchovsky</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 104</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>milosh-informal</string>
+		<key>Email</key>
+		<string>milosh@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ali S. Rangwala</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 105</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>faculty-rangwala</string>
+		<key>Email</key>
+		<string>rangwala@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Albert Simeoni</string>
+		<key>Office</key>
+		<string>Higgins Laboratories, 112</string>
+		<key>Department</key>
+		<string>Fire Protection Engineering</string>
+		<key>Photo</key>
+		<string>fpe-simeoni-profile</string>
+		<key>Email</key>
+		<string>asimeoni@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stephen J. Bitar</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 312</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>bitar-formal</string>
+		<key>Email</key>
+		<string>sjbitar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gene Bogdanov</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 020</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-bogdanov2</string>
+		<key>Email</key>
+		<string>gene@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Donald R. Brown III</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 313</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>brown-formal</string>
+		<key>Email</key>
+		<string>drb@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Edward &quot;Ted&quot; A. Clancy</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 304</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-clancy2</string>
+		<key>Email</key>
+		<string>ted@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David Cyganski</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 128</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-cyganski2</string>
+		<key>Email</key>
+		<string>cyganski@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>R. James Duckworth</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 301</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-duckworth2</string>
+		<key>Email</key>
+		<string>rjduck@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Thomas Eisenbarth</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 216</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>teisenbarth-161160</string>
+		<key>Email</key>
+		<string>teisenbarth@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alexander E. Emanuel</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 215</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>Alex_Emanuel_web_rdax_161x110</string>
+		<key>Email</key>
+		<string>aemanuel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hossein Hakim</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 231</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-hakim2</string>
+		<key>Email</key>
+		<string>hakim@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Xinming Huang</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 303</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-huang</string>
+		<key>Email</key>
+		<string>xhuang@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Susan M. Jarvis</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 011</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>rbe-jarvis-formal</string>
+		<key>Email</key>
+		<string>sjarvis@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Andrew G. Klein</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 307</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-klein</string>
+		<key>Email</key>
+		<string>klein@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lifeng Lai</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 204</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>llai-profile</string>
+		<key>Email</key>
+		<string>llai@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fred J. Looft III</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 012</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>looft-formal</string>
+		<key>Email</key>
+		<string>fjlooft@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Reinhold Ludwig</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 228</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-ludwig2</string>
+		<key>Email</key>
+		<string>ludwig@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sergey N. Makarov</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 306</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>makarov-formal</string>
+		<key>Email</key>
+		<string>makarov@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yehia Massoud</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 203</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>massoud-formal</string>
+		<key>Email</key>
+		<string>massoud@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John A. McNeill</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 305</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-mcneill2</string>
+		<key>Email</key>
+		<string>mcneill@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William R. Michalson</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 309</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-michalson2</string>
+		<key>Email</key>
+		<string>wrm@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John A. Orr</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 214</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-orr3</string>
+		<key>Email</key>
+		<string>orr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Taskin Padir</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 229</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>taskin_padir</string>
+		<key>Email</key>
+		<string>tpadir@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kaveh Pahlavan</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 308</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-pahlavan2</string>
+		<key>Email</key>
+		<string>kaveh@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Peder C. Pedersen</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 205</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-pedersen2</string>
+		<key>Email</key>
+		<string>pedersen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Berk Sunar</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 302</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>sunar-formal-informal</string>
+		<key>Email</key>
+		<string>sunar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alexander Wyglinski</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 230</string>
+		<key>Department</key>
+		<string>Electrical and Computer Engineering</string>
+		<key>Photo</key>
+		<string>fac-wyglinski2</string>
+		<key>Email</key>
+		<string>alexw@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Keith Zizza</string>
+		<key>Office</key>
+		<string>Fuller Laboratories</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>imgd-zizza-profile</string>
+		<key>Email</key>
+		<string>kzizza@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Craig Wills</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 234</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-wills</string>
+		<key>Email</key>
+		<string>cew@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Matthew Oliver Ward</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 231</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-ward</string>
+		<key>Email</key>
+		<string>matt@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Krishna Kumar Venkatasubramanian</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B22</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-venkatasubramanian-profile</string>
+		<key>Email</key>
+		<string>kven@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Eduardo Rafael Torres-Jara</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 124</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-jara-formal</string>
+		<key>Email</key>
+		<string>etorresj@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ralph Paul Hendrik Sutter</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 206</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>imgd-sutter-formal</string>
+		<key>Email</key>
+		<string>rsutter@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Britton Robert Snyder</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 210</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>imgd-snyder-profile</string>
+		<key>Email</key>
+		<string>bsnyder@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Candace L. Sidner</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B21</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-sidner-formal</string>
+		<key>Email</key>
+		<string>sidner@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Craig A. Shue</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 236</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-shue</string>
+		<key>Email</key>
+		<string>cshue@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stanley M. Selkow</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 147</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-selkow</string>
+		<key>Email</key>
+		<string>sms@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gabor Sarkozy</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 141</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-sarkozy</string>
+		<key>Email</key>
+		<string>gsarkozy@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Elke Angelika Rundensteiner</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 238</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-rudensteiner</string>
+		<key>Email</key>
+		<string>rundenst@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Charles Rich</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B25b</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-rich-formal</string>
+		<key>Email</key>
+		<string>rich@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Craig Putnam</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 129</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-putnam-formal</string>
+		<key>Email</key>
+		<string>cbputnam@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Keith A. Pray</string>
+		<key>Office</key>
+		<string>Fuller Laboratories</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-pray</string>
+		<key>Email</key>
+		<string>kap@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gary F. Pollice</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B19</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-pollice</string>
+		<key>Email</key>
+		<string>gpollice@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brian Moriarty</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 211</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>imgd-moriarty-profile2</string>
+		<key>Email</key>
+		<string>bmoriarty@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert W. Lindeman</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B24a</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>rbe-lindeman-formal</string>
+		<key>Email</key>
+		<string>gogo@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jeff LeBlanc</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 243</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-leblanc</string>
+		<key>Email</key>
+		<string>jleblanc@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hugh C. Lauer</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 144</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-lauer</string>
+		<key>Email</key>
+		<string>lauer@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Micha Hofri</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 133</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-hofri</string>
+		<key>Email</key>
+		<string>hofri@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>George T. Heineman</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B-20</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-heineman</string>
+		<key>Email</key>
+		<string>heineman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Neil T. Heffernan</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 237</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-heffernan</string>
+		<key>Email</key>
+		<string>nth@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joshua D. Guttman</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 137</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-guttman</string>
+		<key>Email</key>
+		<string>guttman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael A. Gennert</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 130</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-gennert-formal</string>
+		<key>Email</key>
+		<string>michaelg@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kathi Fisler</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 130</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal_fisler</string>
+		<key>Email</key>
+		<string>kfisler@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David Finkel</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B23</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-finkel</string>
+		<key>Email</key>
+		<string>dfinkel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mohamed Eltabakh</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 235</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-eltabakh</string>
+		<key>Email</key>
+		<string>meltabakh@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Daniel J. Dougherty</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 136</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-dougherty</string>
+		<key>Email</key>
+		<string>dd@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mark Claypoo</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, B24b</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-claypool</string>
+		<key>Email</key>
+		<string>claypool@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael J. Ciaraldi</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 129</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-ciaraldi</string>
+		<key>Email</key>
+		<string>ciaraldi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sonia Chernova</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 125</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-chernova</string>
+		<key>Email</key>
+		<string>soniac@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David C. Brown</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 131</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-brown</string>
+		<key>Email</key>
+		<string>dcb@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dmitry Berenson</string>
+		<key>Office</key>
+		<string>Atwater Kent Laboratories, 121</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-berenson-profile</string>
+		<key>Email</key>
+		<string>dberenson@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph Beck</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 138</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-formal-beck</string>
+		<key>Email</key>
+		<string>josephbeck@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Emmanuel O. Agu</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 139</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-agu</string>
+		<key>Email</key>
+		<string>emmanuel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Steven Van Dessel</string>
+		<key>Office</key>
+		<string>Kaven Hall, 117A</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>VanDessel_Steve_2013_rdax_161x173</string>
+		<key>Email</key>
+		<string>svandessel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mingjiang Tao</string>
+		<key>Office</key>
+		<string>Kaven Hall, 107</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-tao-formal</string>
+		<key>Email</key>
+		<string>taomj@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Guillermo F. Salazar</string>
+		<key>Office</key>
+		<string>Kaven Hall, 202A</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>hua-salazar-profile</string>
+		<key>Email</key>
+		<string>salazar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Aaron Richard Sakulich</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209C</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>hua-sakulich-profile</string>
+		<key>Email</key>
+		<string>arsakulich@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Derren Rosbach</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 327</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>blank-male</string>
+		<key>Email</key>
+		<string>drosbach@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nima Rahbar</string>
+		<key>Office</key>
+		<string>Kaven Hall, 104</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-rahbar-formal</string>
+		<key>Email</key>
+		<string>nrahbar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jeanine D. Plummer</string>
+		<key>Office</key>
+		<string>Kaven Hall, 106</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>ess-profile-plummer</string>
+		<key>Email</key>
+		<string>jplummer@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Roberto Pietroforte</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209B</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-pietroforte-profile</string>
+		<key>Email</key>
+		<string>roberto@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Paul Mathisen</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209E</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-mathisen-profile</string>
+		<key>Email</key>
+		<string>mathisen@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Rajib Basu Mallick</string>
+		<key>Office</key>
+		<string>Kaven Hall, 105</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-majib-new</string>
+		<key>Email</key>
+		<string>rajib@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Suzanne LePage</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209A</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-lepage-profile</string>
+		<key>Email</key>
+		<string>slepage@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yeesock Kim</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209D</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-kim-formal</string>
+		<key>Email</key>
+		<string>yeesock@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Frederick L. Hart</string>
+		<key>Office</key>
+		<string>Kaven Hall, 206</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-hart-formal</string>
+		<key>Email</key>
+		<string>flhart@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kenneth M. Elovitz</string>
+		<key>Office</key>
+		<string>Kaven Hall, 207A</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>Ken_Elovitz_rdax_161x131</string>
+		<key>Email</key>
+		<string>kmelovitz@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tahar El-Korchi</string>
+		<key>Office</key>
+		<string>Kaven Hall, 101</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-el-korchi-profile</string>
+		<key>Email</key>
+		<string>tek@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Leffi Cewe-Malloy</string>
+		<key>Office</key>
+		<string>Kaven Hall, 117B</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-malloy-profile</string>
+		<key>Email</key>
+		<string>lemalloy@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>John A. Bergendahl</string>
+		<key>Office</key>
+		<string>Kaven Hall, 117B</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-bergendahl-profile</string>
+		<key>Email</key>
+		<string>jberg@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Umberto Berardi</string>
+		<key>Office</key>
+		<string>Kaven Hall, 209B</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>umberto_berardi_161</string>
+		<key>Email</key>
+		<string>uberardi@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Leonard D. Albano</string>
+		<key>Office</key>
+		<string>Kaven Hall, 201</string>
+		<key>Department</key>
+		<string>Civil and Environmental Engineering</string>
+		<key>Photo</key>
+		<string>cee-albano-profile</string>
+		<key>Email</key>
+		<string>ldalbano@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kristin K. Wobbe</string>
+		<key>Office</key>
+		<string>Boynton Hall, 108</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>wobbe_formal_profile</string>
+		<key>Email</key>
+		<string>kwobbe@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Christopher R. Lambert</string>
+		<key>Office</key>
+		<string>no record</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>clambert@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Uma T. Kumar</string>
+		<key>Office</key>
+		<string>Goddard Hall, 103C</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>cbc-profile-kumar</string>
+		<key>Email</key>
+		<string>kumar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>George A. Kaminski</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4019</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>cbc-profile-kaminski</string>
+		<key>Email</key>
+		<string>gkaminski@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Destin Heilman</string>
+		<key>Office</key>
+		<string>Goddard Hall, 103B</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>heilman_formal_profile</string>
+		<key>Email</key>
+		<string>dheilman@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Arne Gericke</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>gericke_formal_profile</string>
+		<key>Email</key>
+		<string>agericke@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marion H. Emmert</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3027</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>emmert_formal_profile</string>
+		<key>Email</key>
+		<string>mhemmert@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>James P. Dittami</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3021</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>cbc-profile-dittami</string>
+		<key>Email</key>
+		<string>jdittami@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert E. Dempski</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3005</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>dempski_formal_profile</string>
+		<key>Email</key>
+		<string>rdempski@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert E. Connors</string>
+		<key>Office</key>
+		<string>Goddard Hall, 128C</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>connors_formal_profile</string>
+		<key>Email</key>
+		<string>rconnors@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shawn C. Burdette</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3023</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>Burdette-Informal</string>
+		<key>Email</key>
+		<string>scburdette@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Drew R. Brodeur</string>
+		<key>Office</key>
+		<string>Goddard Hall, 103D</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>brodeur_formal_profile</string>
+		<key>Email</key>
+		<string>dbrodeur@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>José M. Argüello</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4021</string>
+		<key>Department</key>
+		<string>Chemistry &amp; Biochemistry</string>
+		<key>Photo</key>
+		<string>arguello_formal_profile</string>
+		<key>Email</key>
+		<string>arguello@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hong Susan Zhou</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4001</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>zhou-formal</string>
+		<key>Email</key>
+		<string>szhou@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alvin Weiss</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>aweiss@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert Wagner</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>rwagner@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael T. Timko</string>
+		<key>Office</key>
+		<string>Goddard Hall, 123</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>linked-in-portrait_rdax_161x242</string>
+		<key>Email</key>
+		<string>mttimko@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert W. Thompson</string>
+		<key>Office</key>
+		<string>Goddard Hall, 119</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>thompson_rdax_161x215</string>
+		<key>Email</key>
+		<string>rwt@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Thomas Starr</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>starr-informal</string>
+		<key>Email</key>
+		<string>tstarr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Itzcoati Pla</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>ipla@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Henry W. Nowick</string>
+		<key>Office</key>
+		<string>Goddard Hall, 123</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>Nowick_Informal</string>
+		<key>Email</key>
+		<string>hnowick@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ivan P. Mardilovich</string>
+		<key>Office</key>
+		<string>Goddard Hall, 226</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>mardilovich-informal</string>
+		<key>Email</key>
+		<string>ivanpm@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yi (Ed) Hua Ma</string>
+		<key>Office</key>
+		<string>Goddard Hall, 122</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>ma-formal</string>
+		<key>Email</key>
+		<string>yhma@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stephen James Kmiotek</string>
+		<key>Office</key>
+		<string>Goddard Hall, 120</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>Stephen-Kmiotek_formal</string>
+		<key>Email</key>
+		<string>sjkmiotek@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nikolaos Kazantzis</string>
+		<key>Office</key>
+		<string>Goddard Hall, 224A</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>kazantzis-profile</string>
+		<key>Email</key>
+		<string>nikolas@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Federico Guazzone</string>
+		<key>Office</key>
+		<string>Goddard Hall, 020</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>guazzone-formal</string>
+		<key>Email</key>
+		<string>guazzone@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ilie Fishtik</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 222</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>fishtik-formal</string>
+		<key>Email</key>
+		<string>ifishtik@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Anthony G. Dixon</string>
+		<key>Office</key>
+		<string>Goddard Hall, 224A</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>dixon-formal</string>
+		<key>Email</key>
+		<string>agdixon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David DiBiasio</string>
+		<key>Office</key>
+		<string>Goddard Hall, 125</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>dibiasio-formal</string>
+		<key>Email</key>
+		<string>dibiasio@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nathaniel A. Deskins</string>
+		<key>Office</key>
+		<string>Goddard Hall, 014B</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>deskins-formal</string>
+		<key>Email</key>
+		<string>nadeskins@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ravindra Datta</string>
+		<key>Office</key>
+		<string>Goddard Hall, 014A</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>Ravi_Recent_rdax_161x179</string>
+		<key>Email</key>
+		<string>rdatta@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>William M. Clark</string>
+		<key>Office</key>
+		<string>Goddard Hall, 124</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>clark-formal</string>
+		<key>Email</key>
+		<string>wmclark@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Terri A. Camesano</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4002</string>
+		<key>Department</key>
+		<string>Chemical Engineering</string>
+		<key>Photo</key>
+		<string>camesano-formal</string>
+		<key>Email</key>
+		<string>terric@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bob Kinicki</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 135</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>cs-profile-kinicki</string>
+		<key>Email</key>
+		<string>rek@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marsha Rolle</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4011</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>marsha-rolle-profile</string>
+		<key>Email</key>
+		<string>mrolle@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>George D. Pins</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4010</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>PinsBiomedicalEngineeringmay2011_rdax_161x224</string>
+		<key>Email</key>
+		<string>gpins@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Raymond L. Page</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4005</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>raymond-page-profile</string>
+		<key>Email</key>
+		<string>rpage@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mark A. Norige</string>
+		<key>Office</key>
+		<string>Goddard Hall, 303A</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>bme-norige-formal</string>
+		<key>Email</key>
+		<string>manorige@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yitzhak Mendelson</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3007</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>yitzhak-mendelson-profile</string>
+		<key>Email</key>
+		<string>ym@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Anjana Jain</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4004</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>Jain_faculty_pic</string>
+		<key>Email</key>
+		<string>ajain@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Glenn R. Gaudette</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4012</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>glenn-gaudette-profile</string>
+		<key>Email</key>
+		<string>gaudette@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Patrick Flaherty</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3003</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>bme-flaherty-profile</string>
+		<key>Email</key>
+		<string>pjflaherty@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kristen L. Billiar</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4007</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>bme-billiar-profile-new</string>
+		<key>Email</key>
+		<string>kbilliar@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sakthikumar Ambady</string>
+		<key>Office</key>
+		<string>Goddard Hall, 128B</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>Sakthikumar-Ambady</string>
+		<key>Email</key>
+		<string>sambady@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dirk R. Albrecht</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>DirkRAlbrecht_formal_small</string>
+		<key>Email</key>
+		<string>dalbrecht@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ki H. Chon</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4008</string>
+		<key>Department</key>
+		<string>Biomedical Engineering</string>
+		<key>Photo</key>
+		<string>ki-profile</string>
+		<key>Email</key>
+		<string>kichon@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JoAnn L. Whitefleet-Smith</string>
+		<key>Office</key>
+		<string>Goddard Hall, 203B</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>blank-female</string>
+		<key>Email</key>
+		<string>jaws@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pamela &quot;Pam&quot; J. Weathers</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4022</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>weathers-large_rdax_161x225</string>
+		<key>Email</key>
+		<string>weathers@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Luis Vidali</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4018</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>Vidaili-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>lvidali@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jagan Srinivasan</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4026</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>bbt-srinivasn-profile</string>
+		<key>Email</key>
+		<string>jsrinivasan@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Elizabeth &quot;Liz&quot; F. Ryder</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4024</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>Ryder-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>ryder@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jill Rulfs</string>
+		<key>Office</key>
+		<string>Goddard Hall, 128A</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>BBT_rulfs_headshot</string>
+		<key>Email</key>
+		<string>jrulfs@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kamal A. Rashid</string>
+		<key>Office</key>
+		<string>50 Prescott, 2045</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>Rashid_faculty_profile_pic_rdax_161x216</string>
+		<key>Email</key>
+		<string>krashid@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Reeta Prusty Rao</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4013</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>reeta-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>rpr@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Samuel &quot;Sam&quot; M. Politz</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4023</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>sam-poliz-formal_rdax_161x188</string>
+		<key>Email</key>
+		<string>spolitz@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Eric W. Overstrom</string>
+		<key>Office</key>
+		<string>Boynton Hall, Provost Office</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>overstrom-headshot_rdax_161x242</string>
+		<key>Email</key>
+		<string>ewo@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Karen Kashmanian Oates</string>
+		<key>Office</key>
+		<string>Salisbury Laboratories, 121</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>BBT_Oates_candid_rdax_161x242</string>
+		<key>Email</key>
+		<string>koates@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lauren Mathews</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4006</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>mathews-large_rdax_161x229</string>
+		<key>Email</key>
+		<string>lmathews@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Robert J. Gegear</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4016</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>RGegear2_rdax_161x175</string>
+		<key>Email</key>
+		<string>rgegear@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Natalie G. Farny</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4034</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>nfarny_lab_rdax_161x215</string>
+		<key>Email</key>
+		<string>nfarny@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Joseph &quot;Duff&quot; B. Duffy</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, GP4015</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>duffy-large_rdax_161x242</string>
+		<key>Email</key>
+		<string>jduffy@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tanja Dominko</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 3004</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>tanja-large_rdax_161x226</string>
+		<key>Email</key>
+		<string>tdominko@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mike Buckholt</string>
+		<key>Office</key>
+		<string>Goddard Hall, 203A</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>BBT_Buckholt_headshot2_rdax_161x143</string>
+		<key>Email</key>
+		<string>mbuckhol@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marja Bakermans</string>
+		<key>Office</key>
+		<string>Goddard Hall, 005</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>MarjaBakermans_rdax_161x213</string>
+		<key>Email</key>
+		<string>mbakermans@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>David &quot;Dave&quot; S. Adams</string>
+		<key>Office</key>
+		<string>Life Sciences &amp; Bioengineering Center, 4003</string>
+		<key>Department</key>
+		<string>Biology &amp; Biotechnology</string>
+		<key>Photo</key>
+		<string>adamsprofile</string>
+		<key>Email</key>
+		<string>dadams@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>TSgt Corey Taulton</string>
+		<key>Office</key>
+		<string>37 Institute Road</string>
+		<key>Department</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Photo</key>
+		<string>afas-taulton-profile</string>
+		<key>Email</key>
+		<string>ctaulton@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lt Col Cynthia Provost</string>
+		<key>Office</key>
+		<string>37 Institute Road</string>
+		<key>Department</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Photo</key>
+		<string>afas-provost-profile</string>
+		<key>Email</key>
+		<string>cprovost@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Major Jeremy Kruger</string>
+		<key>Office</key>
+		<string>37 Institute Road</string>
+		<key>Department</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Photo</key>
+		<string>Kruger-profile</string>
+		<key>Email</key>
+		<string>jkruger@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Capt Vito A. Bussmann</string>
+		<key>Office</key>
+		<string>37 Institute Road</string>
+		<key>Department</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Photo</key>
+		<string>afas-bussmann-profile</string>
+		<key>Email</key>
+		<string>vbussmann@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>MSgt Seymour Brookes</string>
+		<key>Office</key>
+		<string>37 Institute Road</string>
+		<key>Department</key>
+		<string>Air Force &amp; Aerospace Studies</string>
+		<key>Photo</key>
+		<string>afas-brookes-profile</string>
+		<key>Email</key>
+		<string>sbrookes@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Glynis M. Hamel</string>
+		<key>Office</key>
+		<string>Fuller Laboratories, 132</string>
+		<key>Department</key>
+		<string>Computer Science</string>
+		<key>Photo</key>
+		<string>ghamel</string>
+		<key>Email</key>
+		<string>ghamel@wpi.edu</string>
+		<key>ID</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

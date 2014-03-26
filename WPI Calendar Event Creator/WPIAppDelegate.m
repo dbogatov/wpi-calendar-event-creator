@@ -12,6 +12,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    NSError *error;
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentsDirectory = [paths objectAtIndex:0];
+    
+    NSString *favoritesPath = [documentsDirectory stringByAppendingPathComponent:@"favorites.plist"];
+    
+    if ([fileManager fileExistsAtPath:favoritesPath] == NO) {
+        NSString *resourcePath = [[NSBundle mainBundle] pathForResource:@"favorites" ofType:@"plist"];
+        [fileManager copyItemAtPath:resourcePath toPath:favoritesPath error:&error];
+    }
+    
     // Override point for customization after application launch.
     return YES;
 }

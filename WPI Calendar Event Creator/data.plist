@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2013-12-08T03:09:47Z</date>
+	<key>Conflict</key>
+	<string></string>
+	<key>Duration</key>
+	<integer>30</integer>
+	<key>Duration Picker Index</key>
+	<integer>3</integer>
+	<key>Type</key>
+	<integer>0</integer>
+	<key>Details Friend</key>
+	<string>Somewho</string>
+	<key>Details Custom</key>
+	<string>Some custom meeting...</string>
+	<key>Use Custom Professor</key>
+	<integer>1</integer>
+	<key>Custom Professor</key>
+	<string>Somewho</string>
+	<key>Professor&apos;s Index</key>
+	<integer>-1</integer>
+	<key>Use Custom Building</key>
+	<integer>1</integer>
+	<key>Use Professors Office</key>
+	<integer>0</integer>
+	<key>Custom Building</key>
+	<string>Some building</string>
+	<key>Building&apos;s Index</key>
+	<integer>-1</integer>
+	<key>Room Number</key>
+	<integer>-1</integer>
+	<key>Room Letter</key>
+	<string>Z</string>
+	<key>Specific Place</key>
+	<string>near the enterance</string>
+	<key>Use Specific Place</key>
+	<integer>1</integer>
+	<key>Alert Time</key>
+	<string>5 minutes before</string>
+	<key>Alert Number</key>
+	<integer>5</integer>
+	<key>Alert Picker Index</key>
+	<integer>2</integer>
+	<key>Notes</key>
+	<string></string>
+</dict>
+</plist>

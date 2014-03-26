@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>preview</title>
+        <meta name="generator" content="BBEdit 10.5" />
+        <style media="screen" type="text/css">
+            div {
+                border-radius: 6px;
+                background-color:#4A708B;
+                padding:2px;
+                text-align:center;
+            }
+        table { border-radius: 15px;
+            background-color:#FF8C69;
+            
+        }
+        td {
+            padding:0px;
+        }
+        body {
+            background-color:#FF8C69;
+        }
+        p {
+            text-align:center;
+        }
+        div#label {
+            border-radius: 6px;
+            background-color:#CD3700;
+            padding:0px;
+            text-align:center;
+        }
+        div#line {
+            border-radius: 15px;
+            background-color:#FF8C69;
+            padding:2px;
+            text-align:center;
+        }
+        </style>
+    </head>
+    
+    <script>
+        function update(title, location, date, alert, notes) {
+            document.getElementById('title').innerHTML = title;
+            document.getElementById('location').innerHTML = location;
+            document.getElementById('date').innerHTML = date;
+            document.getElementById('alert').innerHTML = alert;
+            document.getElementById('notes').innerHTML = notes;
+        }
+    </script>
+    <body>
+        <div id='instruction'><font color="#FFE4B5"><i><span style="color:#000000;">Here is the event you are about to add to your default calendar. To change some details, please, step back and change. Your data will not be lost. In addition, you will be able to change any event properties in the calendar app. Go back and tap "Create!", if you want to add this event to your system calendar.</span></i></div>
+        <table border=0 width=100%>
+            <tr>
+                <td>
+                    <div id='line'></div>
+                </td>
+            </tr>
+            <tr>
+                <td height='10'>
+                    <div id='label'>Title</div>
+                </td>
+            </tr>
+            <tr>
+                <td align='center'>
+                    <div id='title'>Appointment with professor Glynis Hamel<div>
+                        </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id='line'></div>
+                </td>
+            </tr>
+            <tr>
+                <td height='10'>
+                    <div id='label'>Location</div>
+                </td>
+            </tr>
+            <tr>
+                <td align='center'>
+                    <div id='location'>Fuller Labs, 21A<div>
+                        </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id='line'></div>
+                </td>
+            </tr>
+            <tr>
+                <td height='10'>
+                    <div id='label'>Date and Duration</div>
+                </td>
+            </tr>
+            <tr>
+                <td align='center'>
+                    <div id='date'>December 12, 2013<div>
+                        </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id='line'></div>
+                </td>
+            </tr>
+            <tr>
+                <td height='10'>
+                    <div id='label'>Alert</div>
+                </td>
+            </tr>
+            <tr>
+                <td align='center'>
+                    <div id='alert'>5 minutes before<div>
+                        </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id='line'></div>
+                </td>
+            </tr>
+            <tr>
+                <td height='10'>
+                    <div id='label'>Notes</div>
+                </td>
+            </tr>
+            <tr>
+                <td align='center'>
+                    <div id='notes'>[no notes]<div>
+                        </td>
+            </tr>
+        </table>
+    </body>
+</html>
