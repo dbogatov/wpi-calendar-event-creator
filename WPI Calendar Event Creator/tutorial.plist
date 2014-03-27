@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Text</key>
+		<string>Welcome to WPI Calendar Event Creator App!</string>
+		<key>Image</key>
+		<string>tutorial0</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>Here is the main setup view. You may set some properties of event from here.</string>
+		<key>Image</key>
+		<string>tutorial1</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>Here is an example of property you may change. Date and duration in this case.</string>
+		<key>Image</key>
+		<string>tutorial2</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>You may choose professor right from the list! You may set favorite professors from the setup.</string>
+		<key>Image</key>
+		<string>tutorial3</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>You may search for professor just typing his/her name or surname.</string>
+		<key>Image</key>
+		<string>tutorial4</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>You may choose building/room from the list, or just tap &quot;Professor&apos;s Office&quot;. App knows, where it is.</string>
+		<key>Image</key>
+		<string>tutorial5</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>You may preview the event, you are about to create.</string>
+		<key>Image</key>
+		<string>tutorial6</string>
+	</dict>
+	<dict>
+		<key>Text</key>
+		<string>If you choose professor from the app&apos;s database, app may send him/her an email-reminder.</string>
+		<key>Image</key>
+		<string>tutorial7</string>
+	</dict>
+</array>
+</plist>

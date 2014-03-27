@@ -7,6 +7,7 @@
 //
 
 #import "WPIAppDelegate.h"
+#import "WPIModel.h"
 
 @implementation WPIAppDelegate
 
@@ -20,8 +21,11 @@
     NSString *favoritesPath = [documentsDirectory stringByAppendingPathComponent:@"favorites.plist"];
     
     if ([fileManager fileExistsAtPath:favoritesPath] == NO) {
+        [WPIModel sharedDataModel].firstLaunch = YES;
         NSString *resourcePath = [[NSBundle mainBundle] pathForResource:@"favorites" ofType:@"plist"];
         [fileManager copyItemAtPath:resourcePath toPath:favoritesPath error:&error];
+    } else {
+        [WPIModel sharedDataModel].firstLaunch = NO;
     }
     
     // Override point for customization after application launch.

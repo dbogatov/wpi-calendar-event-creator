@@ -18,6 +18,9 @@
 @property (strong, nonatomic) WPITableViewController *mainTable;
 
 @property (nonatomic) BOOL inFavorites;
+@property (nonatomic) BOOL firstLaunch;
+
+@property (strong, nonatomic) NSArray *tutorials;
 
 @property (strong, nonatomic) NSMutableArray *professors;
 @property (strong, nonatomic) NSMutableArray *profsByDepts;

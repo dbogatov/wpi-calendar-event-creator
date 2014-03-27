@@ -14,6 +14,7 @@
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 - (IBAction)editButtonPressed:(UIBarButtonItem *)sender;
 @property (weak, nonatomic) IBOutlet UIBarButtonItem *editButton;
+- (IBAction)doneButtonPressed:(UIBarButtonItem *)sender;
 
 @end
 
@@ -99,5 +100,9 @@
         [self.tableView setEditing:YES animated:YES];
         [self.editButton setTitle:@"Done"];
     }
+}
+- (IBAction)doneButtonPressed:(UIBarButtonItem *)sender {
+    [WPIModel sharedDataModel].inFavorites = NO;
+    [self.navigationController dismissViewControllerAnimated:YES completion:nil];
 }
 @end

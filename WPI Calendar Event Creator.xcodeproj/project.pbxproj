@@ -364,6 +364,17 @@
 		C740EDF518AEDD7900C3A701 /* math-formal-weekes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C740EDF018AEDD7900C3A701 /* math-formal-weekes.jpg */; };
 		C740EDF618AEDD7900C3A701 /* Homer_Walker_rdax_161x242.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C740EDF118AEDD7900C3A701 /* Homer_Walker_rdax_161x242.jpg */; };
 		C740EDF718AEDD7900C3A701 /* math-formal-darko.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C740EDF218AEDD7900C3A701 /* math-formal-darko.jpg */; };
+		C74BF55918E37E9E00856171 /* WPIPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C74BF55818E37E9E00856171 /* WPIPageContentViewController.m */; };
+		C74BF56818E384B000856171 /* WPITutorialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C74BF56718E384B000856171 /* WPITutorialViewController.m */; };
+		C74BF57918E3973300856171 /* tutorial.plist in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57818E3973300856171 /* tutorial.plist */; };
+		C74BF57B18E3B95800856171 /* tutorial1.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57A18E3B95800856171 /* tutorial1.png */; };
+		C74BF58218E3BB4F00856171 /* tutorial2.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57C18E3BB4F00856171 /* tutorial2.png */; };
+		C74BF58318E3BB4F00856171 /* tutorial3.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57D18E3BB4F00856171 /* tutorial3.png */; };
+		C74BF58418E3BB4F00856171 /* tutorial4.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57E18E3BB4F00856171 /* tutorial4.png */; };
+		C74BF58518E3BB4F00856171 /* tutorial5.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF57F18E3BB4F00856171 /* tutorial5.png */; };
+		C74BF58618E3BB4F00856171 /* tutorial6.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58018E3BB4F00856171 /* tutorial6.png */; };
+		C74BF58718E3BB4F00856171 /* tutorial7.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58118E3BB4F00856171 /* tutorial7.png */; };
+		C74BF58918E3BF3B00856171 /* tutorial0.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58818E3BF3B00856171 /* tutorial0.png */; };
 		C751D4DA18AB046600CFA0FF /* camesano-formal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4D918AB046600CFA0FF /* camesano-formal.jpg */; };
 		C751D4DC18AB04B900CFA0FF /* clark-formal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4DB18AB04B900CFA0FF /* clark-formal.jpg */; };
 		C751D4DE18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4DD18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg */; };
@@ -866,6 +877,19 @@
 		C740EDF018AEDD7900C3A701 /* math-formal-weekes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "math-formal-weekes.jpg"; sourceTree = "<group>"; };
 		C740EDF118AEDD7900C3A701 /* Homer_Walker_rdax_161x242.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Homer_Walker_rdax_161x242.jpg; sourceTree = "<group>"; };
 		C740EDF218AEDD7900C3A701 /* math-formal-darko.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "math-formal-darko.jpg"; sourceTree = "<group>"; };
+		C74BF55718E37E9E00856171 /* WPIPageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPIPageContentViewController.h; sourceTree = "<group>"; };
+		C74BF55818E37E9E00856171 /* WPIPageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPIPageContentViewController.m; sourceTree = "<group>"; };
+		C74BF56618E384B000856171 /* WPITutorialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPITutorialViewController.h; sourceTree = "<group>"; };
+		C74BF56718E384B000856171 /* WPITutorialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPITutorialViewController.m; sourceTree = "<group>"; };
+		C74BF57818E3973300856171 /* tutorial.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = tutorial.plist; sourceTree = "<group>"; };
+		C74BF57A18E3B95800856171 /* tutorial1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial1.png; sourceTree = "<group>"; };
+		C74BF57C18E3BB4F00856171 /* tutorial2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial2.png; sourceTree = "<group>"; };
+		C74BF57D18E3BB4F00856171 /* tutorial3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial3.png; sourceTree = "<group>"; };
+		C74BF57E18E3BB4F00856171 /* tutorial4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial4.png; sourceTree = "<group>"; };
+		C74BF57F18E3BB4F00856171 /* tutorial5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial5.png; sourceTree = "<group>"; };
+		C74BF58018E3BB4F00856171 /* tutorial6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial6.png; sourceTree = "<group>"; };
+		C74BF58118E3BB4F00856171 /* tutorial7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial7.png; sourceTree = "<group>"; };
+		C74BF58818E3BF3B00856171 /* tutorial0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial0.png; sourceTree = "<group>"; };
 		C751D4D918AB046600CFA0FF /* camesano-formal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "camesano-formal.jpg"; sourceTree = "<group>"; };
 		C751D4DB18AB04B900CFA0FF /* clark-formal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "clark-formal.jpg"; sourceTree = "<group>"; };
 		C751D4DD18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ravi_Recent_rdax_161x179.jpg; sourceTree = "<group>"; };
@@ -1177,6 +1201,7 @@
 		2C4910081846D6E400440D04 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				C74BF55618E37E7000856171 /* Tutorial Controller */,
 				C7AF097018DA5E0800AD442B /* Settings */,
 				2C371BA3185442B600752C45 /* Notes View */,
 				2CB3D042184DA6B1004C3CAF /* Friend And Custom View */,
@@ -1227,6 +1252,7 @@
 		2C4910111846DA3500440D04 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				C74BF57718E3972400856171 /* Tutorial */,
 				2C3BEE8D1859489000BC6753 /* Design */,
 				2C0DAA95184ADFF000DCC8B8 /* Setup Icons */,
 				2C4910271846EC5200440D04 /* Buildings' Photos */,
@@ -1687,6 +1713,41 @@
 			name = PLISTs;
 			sourceTree = "<group>";
 		};
+		C74BF55618E37E7000856171 /* Tutorial Controller */ = {
+			isa = PBXGroup;
+			children = (
+				C74BF55718E37E9E00856171 /* WPIPageContentViewController.h */,
+				C74BF55818E37E9E00856171 /* WPIPageContentViewController.m */,
+				C74BF56618E384B000856171 /* WPITutorialViewController.h */,
+				C74BF56718E384B000856171 /* WPITutorialViewController.m */,
+			);
+			name = "Tutorial Controller";
+			sourceTree = "<group>";
+		};
+		C74BF55D18E381C100856171 /* Tutorial Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				C74BF58818E3BF3B00856171 /* tutorial0.png */,
+				C74BF57A18E3B95800856171 /* tutorial1.png */,
+				C74BF57C18E3BB4F00856171 /* tutorial2.png */,
+				C74BF57D18E3BB4F00856171 /* tutorial3.png */,
+				C74BF57E18E3BB4F00856171 /* tutorial4.png */,
+				C74BF57F18E3BB4F00856171 /* tutorial5.png */,
+				C74BF58018E3BB4F00856171 /* tutorial6.png */,
+				C74BF58118E3BB4F00856171 /* tutorial7.png */,
+			);
+			name = "Tutorial Pictures";
+			sourceTree = "<group>";
+		};
+		C74BF57718E3972400856171 /* Tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				C74BF55D18E381C100856171 /* Tutorial Pictures */,
+				C74BF57818E3973300856171 /* tutorial.plist */,
+			);
+			name = Tutorial;
+			sourceTree = "<group>";
+		};
 		C751D4D818AB044F00CFA0FF /* Chemical Engineering */ = {
 			isa = PBXGroup;
 			children = (
@@ -1947,6 +2008,7 @@
 				C751D50918AB0AC000CFA0FF /* emmert_formal_profile.jpg in Resources */,
 				C751D4F018AB06F300CFA0FF /* mardilovich-informal.jpg in Resources */,
 				C740ED8618AED34700C3A701 /* afas_rdax_300x200.jpg in Resources */,
+				C74BF58218E3BB4F00856171 /* tutorial2.png in Resources */,
 				C740ECF818AEC31400C3A701 /* Yuxiang_Liu_rdax_161x160.jpg in Resources */,
 				2C8D94761888063D00F4EE7B /* reeta-large_rdax_161x242.jpg in Resources */,
 				C740EC9418AEC0E900C3A701 /* math-profile-tang.jpg in Resources */,
@@ -2023,6 +2085,7 @@
 				C740EC7318AEBEB800C3A701 /* lae-vaz-profile.jpg in Resources */,
 				C740EC7518AEBEB800C3A701 /* ess-profile-shockey.jpg in Resources */,
 				2C49102B1846EE6400440D04 /* cc.jpg in Resources */,
+				C74BF57B18E3B95800856171 /* tutorial1.png in Resources */,
 				C740EDF518AEDD7900C3A701 /* math-formal-weekes.jpg in Resources */,
 				C740EC4918AEBD3E00C3A701 /* huas-ljungquist-formal.jpg in Resources */,
 				C740ECF218AEC31400C3A701 /* JBlandino_020206_rdax_161x136.jpg in Resources */,
@@ -2097,6 +2160,7 @@
 				C740EDF618AEDD7900C3A701 /* Homer_Walker_rdax_161x242.jpg in Resources */,
 				C740ED5918AEC81F00C3A701 /* new-faculty-profile-rice.jpg in Resources */,
 				2C3BEE8818593EA900BC6753 /* rrr.png in Resources */,
+				C74BF58718E3BB4F00856171 /* tutorial7.png in Resources */,
 				C740ED7218AECD4600C3A701 /* ssps-smith-profile.jpg in Resources */,
 				C740ECD618AEC31400C3A701 /* me-sisson-profile.jpg in Resources */,
 				C740EDB618AED63F00C3A701 /* olin_rdax_300x200.jpg in Resources */,
@@ -2146,6 +2210,7 @@
 				C740ED7118AECD4600C3A701 /* Stapleton_Informal-001_rdax_161x121.jpg in Resources */,
 				C740ED8E18AED3BA00C3A701 /* boynton_rdax_300x200.jpg in Resources */,
 				C740ECF018AEC31400C3A701 /* me-chierichetti-profile.jpg in Resources */,
+				C74BF58318E3BB4F00856171 /* tutorial3.png in Resources */,
 				C740ECFB18AEC36500C3A701 /* me-demetriou-profile.jpg in Resources */,
 				C740EC1118AE96E100C3A701 /* fac-clancy2.jpg in Resources */,
 				C740EC6218AEBD3E00C3A701 /* hua-barton-profile.jpg in Resources */,
@@ -2192,6 +2257,7 @@
 				C751D58018AB172800CFA0FF /* cs-formal-ward.jpg in Resources */,
 				C740EC1C18AEB83B00C3A701 /* fpe-simeoni-profile.jpg in Resources */,
 				C751D50318AB09FB00CFA0FF /* connors_formal_profile.jpg in Resources */,
+				C74BF57918E3973300856171 /* tutorial.plist in Resources */,
 				C740ECEF18AEC31400C3A701 /* me-cyr-profile.jpg in Resources */,
 				C740EDC018AED6D600C3A701 /* salisbury_rdax_300x200.jpg in Resources */,
 				C740EC7918AEBEB800C3A701 /* cdehner-igsd.jpg in Resources */,
@@ -2306,6 +2372,7 @@
 				C751D53818AB0FD000CFA0FF /* hua-salazar-profile.jpg in Resources */,
 				C740EDEA18AEDCB700C3A701 /* hua-rivera-profile.jpg in Resources */,
 				C740ED4518AEC81F00C3A701 /* wstitt.jpg in Resources */,
+				C74BF58618E3BB4F00856171 /* tutorial6.png in Resources */,
 				C740ED3F18AEC81F00C3A701 /* vance-wilson-large_rdax_161x193.jpg in Resources */,
 				C740EDA418AED53000C3A701 /* gordon_rdax_300x200.jpg in Resources */,
 				C740ED3C18AEC81F00C3A701 /* zhu-faclisting.jpg in Resources */,
@@ -2320,6 +2387,7 @@
 				C740EDF718AEDD7900C3A701 /* math-formal-darko.jpg in Resources */,
 				2C490FDD1846A99B00440D04 /* Main.storyboard in Resources */,
 				C740EC5118AEBD3E00C3A701 /* hua-farbrook-profile.jpg in Resources */,
+				C74BF58918E3BF3B00856171 /* tutorial0.png in Resources */,
 				C740ED9A18AED49500C3A701 /* easthall_rdax_300x225.jpg in Resources */,
 				C751D57E18AB16FD00CFA0FF /* cs-venkatasubramanian-profile.jpg in Resources */,
 				C740ED7418AECD4600C3A701 /* ess-profile-saeed.jpg in Resources */,
@@ -2331,11 +2399,13 @@
 				C740ECE318AEC31400C3A701 /* me-liang-profile.jpg in Resources */,
 				C751D54E18AB124500CFA0FF /* cs-profile-eltabakh.jpg in Resources */,
 				C740ED5418AEC81F00C3A701 /* gonsalves-edward09_rdax_161x242.jpg in Resources */,
+				C74BF58418E3BB4F00856171 /* tutorial4.png in Resources */,
 				C740ED9018AED3D800C3A701 /* cc_rdax_300x200.jpg in Resources */,
 				C740EDAE18AED5CD00C3A701 /* institute-picture1.jpg in Resources */,
 				C740ECF518AEC31400C3A701 /* me-ault-profile.jpg in Resources */,
 				C740EC1E18AEB83B00C3A701 /* milosh-informal.jpg in Resources */,
 				C740ED4418AEC81F00C3A701 /* dianestronglarge.jpg in Resources */,
+				C74BF58518E3BB4F00856171 /* tutorial5.png in Resources */,
 				C740ECE418AEC31400C3A701 /* me-lados-profile.jpg in Resources */,
 				C751D56018AB143600CFA0FF /* cs-profile-leblanc.jpg in Resources */,
 				2C8D94701888058700F4EE7B /* BBT_Oates_candid_rdax_161x242.jpg in Resources */,
@@ -2365,6 +2435,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C74BF55918E37E9E00856171 /* WPIPageContentViewController.m in Sources */,
 				C7A810921899FE7F00E087F4 /* WPIDepartmentCell.m in Sources */,
 				2C3BEE8018581A0000BC6753 /* NSString+Screening.m in Sources */,
 				C7E9A4ED189A10970076A4D5 /* WPIProfDeptViewController.m in Sources */,
@@ -2383,6 +2454,7 @@
 				2C490FE01846A99B00440D04 /* WPIViewController.m in Sources */,
 				2C5EDFBD184AD40600EA7D41 /* WPISegmentedCell.m in Sources */,
 				2C4910101846D8BD00440D04 /* WPIProfessorViewController.m in Sources */,
+				C74BF56818E384B000856171 /* WPITutorialViewController.m in Sources */,
 				2C4910241846E9CB00440D04 /* WPIBuildingCell.m in Sources */,
 				2C490FDA1846A99B00440D04 /* WPIAppDelegate.m in Sources */,
 				C7AF096F18DA4FEC00AD442B /* WPILoadingCell.m in Sources */,

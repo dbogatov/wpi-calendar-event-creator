@@ -45,6 +45,12 @@ static WPIModel *sharedDataModel = nil;
         tmp_data = [[NSMutableArray alloc] initWithContentsOfFile:filePath];
         self.departments = tmp_data;
         
+        filePath = [[NSBundle mainBundle] pathForResource:@"tutorial" ofType:@"plist"];
+        NSArray *tmp_data_static = [[NSArray alloc] initWithContentsOfFile:filePath];
+        self.tutorials = tmp_data_static;
+        
+        NSLog(@"T[0]: %@", NSStringFromClass([self.tutorials[0] class]));
+        
         filePath = [[NSBundle mainBundle] pathForResource:@"buildings" ofType:@"plist"];
         tmp_data = [[NSMutableArray alloc] initWithContentsOfFile:filePath];
         self.buildings = tmp_data;
@@ -334,7 +340,7 @@ static WPIModel *sharedDataModel = nil;
             
             [mailViewController setToRecipients:@[email]];
             [mailViewController setSubject:@"Appointment reminder"];
-            NSString *message = [NSString stringWithFormat:@"Dear professor %@:\n\n I am just writing you a reminder about an appointment we set on %@. \n\n Thank you!\n\n(This is an automated email from WPI Calendar Events Creator app)\n", [prof valueForKey:@"Name"], [self getDateForPurpose:4]];
+            NSString *message = [NSString stringWithFormat:@"Dear Professor %@:\n\n I am just writing you a reminder about an appointment we set on %@. \n\n Thank you!\n\n(This is an automated email from WPI Calendar Events Creator app)\n", [prof valueForKey:@"Name"], [self getDateForPurpose:4]];
             [mailViewController setMessageBody:message isHTML:NO];
             
             [self.mainTable sendEmail:mailViewController];

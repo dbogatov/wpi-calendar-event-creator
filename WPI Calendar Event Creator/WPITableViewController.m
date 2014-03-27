@@ -19,6 +19,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *alertCellSubtitleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *notesCellSubtitleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *dateCellConflictLabel;
+- (IBAction)favoritesButtonPressed:(id)sender;
 
 @end
 
@@ -38,6 +39,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    if ([WPIModel sharedDataModel].firstLaunch) {
+        [self performSegueWithIdentifier:@"setToTut" sender:self];
+    }
 }
 
 -(void)viewWillAppear:(BOOL)animated
@@ -150,4 +155,8 @@
     [self dismissViewControllerAnimated:YES completion:nil];
 }
 
+- (IBAction)favoritesButtonPressed:(id)sender {
+    [WPIModel sharedDataModel].inFavorites = YES;
+    [self performSegueWithIdentifier:@"setToFav" sender:self];
+}
 @end

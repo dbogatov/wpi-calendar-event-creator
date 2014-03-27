@@ -13,13 +13,13 @@
 	<key>Type</key>
 	<integer>0</integer>
 	<key>Details Friend</key>
-	<string>Somewho</string>
+	<string>Some Friend</string>
 	<key>Details Custom</key>
 	<string>Some custom meeting...</string>
 	<key>Use Custom Professor</key>
 	<integer>1</integer>
 	<key>Custom Professor</key>
-	<string>Somewho</string>
+	<string>Some Professor</string>
 	<key>Professor&apos;s Index</key>
 	<integer>-1</integer>
 	<key>Use Custom Building</key>
