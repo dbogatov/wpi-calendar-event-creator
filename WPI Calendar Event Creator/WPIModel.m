@@ -308,7 +308,7 @@ static WPIModel *sharedDataModel = nil;
     
     NSError* error;
     
-    //[self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
+    [self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
     
     
     
