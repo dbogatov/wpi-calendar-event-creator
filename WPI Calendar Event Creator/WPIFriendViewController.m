@@ -29,6 +29,15 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    
+}
+
+-(void)viewDidAppear:(BOOL)animated {
+    if ([(NSNumber*)[[WPIModel sharedDataModel].data valueForKey:@"Type"] integerValue] == 1) {
+        [self.textField becomeFirstResponder];
+    } else {
+        [self.textView becomeFirstResponder];
+    }
 }
 
 -(void) viewWillDisappear:(BOOL)animated {

@@ -308,7 +308,7 @@ static WPIModel *sharedDataModel = nil;
     
     NSError* error;
     
-    [self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
+    //[self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
     
     
     
@@ -318,8 +318,8 @@ static WPIModel *sharedDataModel = nil;
         [self configureData];
     } else {
         if ([(NSNumber*)[self.data valueForKey:@"Use Custom Professor"] boolValue]) {
-            alert = [[UIAlertView alloc] initWithTitle:@"Your event" message:@"Your event is successfully added to your default calendar." delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles: nil];
-            [self configureData];
+            alert = [[UIAlertView alloc] initWithTitle:@"Your event" message:@"Your event is successfully added to your default calendar. Would you like to send out an email with this event?" delegate:self cancelButtonTitle:@"No" otherButtonTitles: @"Yes", nil];
+            //[self configureData];
         } else {
             NSDictionary *prof = (NSDictionary*)[self.professors objectAtIndex:[(NSNumber*)[self.data valueForKey:@"Professor's Index"] integerValue]];
             NSString *message = [NSString stringWithFormat:@"Your event is successfully added to your default calendar. Would you like to send an email to professor %@ with a reminder? You will confirm it.", [prof objectForKey:@"Name"]];
@@ -358,13 +358,23 @@ static WPIModel *sharedDataModel = nil;
             
             MFMailComposeViewController *mailViewController = [[MFMailComposeViewController alloc] init];
             mailViewController.mailComposeDelegate = self.mainTable;
+        
+            NSString *message = @"";
             
-            NSDictionary *prof = (NSDictionary*)[self.professors objectAtIndex:[(NSNumber*)[self.data valueForKey:@"Professor's Index"] integerValue]];
-            NSString *email = [prof valueForKey:@"Email"];
+            if (![(NSNumber*)[self.data valueForKey:@"Use Custom Professor"] boolValue]) {
+                    
+                NSDictionary *prof = (NSDictionary*)[self.professors objectAtIndex:[(NSNumber*)[self.data valueForKey:@"Professor's Index"] integerValue]];
+                NSString *email = [prof valueForKey:@"Email"];
+                
+                [mailViewController setToRecipients:@[email]];
+                [mailViewController setSubject:@"Appointment reminder"];
+                message = [NSString stringWithFormat:@"Dear Professor %@:\n\n I am just writing you a reminder about an appointment we set on %@. \n\n Thank you!", [prof valueForKey:@"Name"], [self getDateForPurpose:4]];
+            } else {
+                [mailViewController setSubject:[self getTitleForPurpose:1]];
+            }
             
-            [mailViewController setToRecipients:@[email]];
-            [mailViewController setSubject:@"Appointment reminder"];
-            NSString *message = [NSString stringWithFormat:@"Dear Professor %@:\n\n I am just writing you a reminder about an appointment we set on %@. \n\n Thank you!\n\n(This is an automated email from WPI Calendar Events Creator app)\n", [prof valueForKey:@"Name"], [self getDateForPurpose:4]];
+            message = [message stringByAppendingString:[NSString stringWithFormat:@"\n\nAttached is an event file. You may add this event to your calendar.\n\n(This is an automated email from WPI Calendar Events Creator app)\n"]];
+            
             [mailViewController setMessageBody:message isHTML:NO];
             
             

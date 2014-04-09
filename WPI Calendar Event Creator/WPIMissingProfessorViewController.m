@@ -31,6 +31,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    
+    
+}
+
+-(void)viewDidAppear:(BOOL)animated {
+    [self.textField becomeFirstResponder];
 }
 
 -(void) viewWillDisappear:(BOOL)animated {

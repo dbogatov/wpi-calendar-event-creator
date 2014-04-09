@@ -41,10 +41,16 @@
     [model.data setValue:self.specificPlaceTextField.text forKey:@"Specific Place"];
 }
 
+-(void)viewDidAppear:(BOOL)animated {
+ [self.roomNumberTextField becomeFirstResponder];
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    
+   
     
     UIToolbar* numberToolbar = [[UIToolbar alloc]initWithFrame:CGRectMake(0, 0, 320, 50)];
     numberToolbar.barStyle = UIBarStyleDefault;

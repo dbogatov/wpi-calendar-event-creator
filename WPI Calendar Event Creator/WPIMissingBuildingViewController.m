@@ -32,10 +32,15 @@
     [model.data setObject:[NSNumber numberWithBool:YES] forKey:@"Use Custom Building"];
 }
 
+-(void)viewDidAppear:(BOOL)animated {
+    [self.buildingName becomeFirstResponder];
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    
 }
 
 - (void)didReceiveMemoryWarning

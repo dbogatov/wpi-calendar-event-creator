@@ -18,6 +18,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *buildingCellSubtitleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *alertCellSubtitleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *notesCellSubtitleLabel;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segmentedControll;
 @property (weak, nonatomic) IBOutlet UILabel *dateCellConflictLabel;
 - (IBAction)favoritesButtonPressed:(id)sender;
 
@@ -131,6 +132,7 @@
 -(void)configureDetailsCell {
     WPIModel *model = [WPIModel sharedDataModel];
     
+    [self.segmentedControll setSelectedSegmentIndex:[(NSNumber*)[model.data valueForKey:@"Type"] integerValue]];
     switch ([(NSNumber*)[model.data valueForKey:@"Type"] integerValue]) {
         case 0:
             self.detailsCellMainLabel.text = @"Professor...";
