@@ -8,7 +8,6 @@
 
 #import "WPIModel.h"
 
-
 @implementation WPIModel
 
 static WPIModel *sharedDataModel = nil;
@@ -309,7 +308,9 @@ static WPIModel *sharedDataModel = nil;
     
     NSError* error;
     
-    [self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
+    //[self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
+    
+    
     
     UIAlertView* alert;
     if (error) {
@@ -328,6 +329,29 @@ static WPIModel *sharedDataModel = nil;
     [alert show];
 }
 
+-(NSString*)getICSFile {
+    NSString *title = [self getTitleForPurpose:1];
+    NSDate *sDate = [self getDateForPurpose:2];
+    NSDate *eDate = [self getDateForPurpose:3];
+    NSString *location = [self getLocation];
+    
+    NSDateComponents *components = [[NSCalendar currentCalendar] components:NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear | NSCalendarUnitHour | NSCalendarUnitMinute fromDate:sDate];
+    NSString *startDate = [NSString stringWithFormat:@"%4ld%2ld%2ldT%2ld%2ld00", (long)components.year, (long)components.month , (long)components.day, (long)components.hour, (long)components.minute];
+    startDate = [startDate stringByReplacingOccurrencesOfString:@" " withString:@"0"];
+    components = [[NSCalendar currentCalendar] components:NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear | NSCalendarUnitHour | NSCalendarUnitMinute fromDate:eDate];
+    NSString *endDate = [NSString stringWithFormat:@"%4ld%2ld%2ldT%2ld%2ld00", (long)components.year, (long)components.month, (long)components.day, (long)components.hour, (long)components.minute];
+    endDate = [endDate stringByReplacingOccurrencesOfString:@" " withString:@"0"];
+    
+    NSLog(@"Date start: %@", startDate);
+    
+    title = [title stringByReplacingOccurrencesOfString:@"," withString:@"\\,"];
+    location = [location stringByReplacingOccurrencesOfString:@"," withString:@"\\,"];
+    
+    NSString *result = [NSString stringWithFormat:@"BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:WPIEventCreatorApp\nBEGIN:VEVENT\nSUMMARY:%@\nLOCATION:%@\nDTSTART;TZID=America/New_York:%@\nDTEND;TZID=America/New_York:%@\nEND:VEVENT\nEND:VCALENDAR", title, location, startDate, endDate];
+    
+    return result;
+}
+
 - (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex {
     if (buttonIndex) {
         if ([MFMailComposeViewController canSendMail]) {
@@ -342,6 +366,9 @@ static WPIModel *sharedDataModel = nil;
             [mailViewController setSubject:@"Appointment reminder"];
             NSString *message = [NSString stringWithFormat:@"Dear Professor %@:\n\n I am just writing you a reminder about an appointment we set on %@. \n\n Thank you!\n\n(This is an automated email from WPI Calendar Events Creator app)\n", [prof valueForKey:@"Name"], [self getDateForPurpose:4]];
             [mailViewController setMessageBody:message isHTML:NO];
+            
+            
+            [mailViewController addAttachmentData:[[self getICSFile] dataUsingEncoding:NSUTF8StringEncoding] mimeType:@"text/calendar" fileName:@"AppointmentFile"];
             
             [self.mainTable sendEmail:mailViewController];
         } else {

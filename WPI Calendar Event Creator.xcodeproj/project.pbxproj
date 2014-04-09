@@ -375,6 +375,8 @@
 		C74BF58618E3BB4F00856171 /* tutorial6.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58018E3BB4F00856171 /* tutorial6.png */; };
 		C74BF58718E3BB4F00856171 /* tutorial7.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58118E3BB4F00856171 /* tutorial7.png */; };
 		C74BF58918E3BF3B00856171 /* tutorial0.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58818E3BF3B00856171 /* tutorial0.png */; };
+		C74BF58C18E4C1FC00856171 /* WPICalendarEventCreatorAppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58B18E4C1FC00856171 /* WPICalendarEventCreatorAppIcon.png */; };
+		C74BF58E18E4C2F000856171 /* rsz_wpicalendareventcreatorappicon.png in Resources */ = {isa = PBXBuildFile; fileRef = C74BF58D18E4C2F000856171 /* rsz_wpicalendareventcreatorappicon.png */; };
 		C751D4DA18AB046600CFA0FF /* camesano-formal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4D918AB046600CFA0FF /* camesano-formal.jpg */; };
 		C751D4DC18AB04B900CFA0FF /* clark-formal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4DB18AB04B900CFA0FF /* clark-formal.jpg */; };
 		C751D4DE18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C751D4DD18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg */; };
@@ -890,6 +892,8 @@
 		C74BF58018E3BB4F00856171 /* tutorial6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial6.png; sourceTree = "<group>"; };
 		C74BF58118E3BB4F00856171 /* tutorial7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial7.png; sourceTree = "<group>"; };
 		C74BF58818E3BF3B00856171 /* tutorial0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tutorial0.png; sourceTree = "<group>"; };
+		C74BF58B18E4C1FC00856171 /* WPICalendarEventCreatorAppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WPICalendarEventCreatorAppIcon.png; sourceTree = "<group>"; };
+		C74BF58D18E4C2F000856171 /* rsz_wpicalendareventcreatorappicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rsz_wpicalendareventcreatorappicon.png; sourceTree = "<group>"; };
 		C751D4D918AB046600CFA0FF /* camesano-formal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "camesano-formal.jpg"; sourceTree = "<group>"; };
 		C751D4DB18AB04B900CFA0FF /* clark-formal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "clark-formal.jpg"; sourceTree = "<group>"; };
 		C751D4DD18AB04F500CFA0FF /* Ravi_Recent_rdax_161x179.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ravi_Recent_rdax_161x179.jpg; sourceTree = "<group>"; };
@@ -1134,6 +1138,7 @@
 		2C490FD01846A99B00440D04 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C74BF58A18E4C1EB00856171 /* Icons and Images */,
 				2C49103E1847043100440D04 /* preview.html */,
 				2C4910111846DA3500440D04 /* Model */,
 				2C490FD11846A99B00440D04 /* WPI Calendar Event Creator-Info.plist */,
@@ -1748,6 +1753,15 @@
 			name = Tutorial;
 			sourceTree = "<group>";
 		};
+		C74BF58A18E4C1EB00856171 /* Icons and Images */ = {
+			isa = PBXGroup;
+			children = (
+				C74BF58D18E4C2F000856171 /* rsz_wpicalendareventcreatorappicon.png */,
+				C74BF58B18E4C1FC00856171 /* WPICalendarEventCreatorAppIcon.png */,
+			);
+			name = "Icons and Images";
+			sourceTree = "<group>";
+		};
 		C751D4D818AB044F00CFA0FF /* Chemical Engineering */ = {
 			isa = PBXGroup;
 			children = (
@@ -2209,6 +2223,7 @@
 				C740EC2018AEB83B00C3A701 /* brian-meacham-formal_rdax_161x121.jpg in Resources */,
 				C740ED7118AECD4600C3A701 /* Stapleton_Informal-001_rdax_161x121.jpg in Resources */,
 				C740ED8E18AED3BA00C3A701 /* boynton_rdax_300x200.jpg in Resources */,
+				C74BF58C18E4C1FC00856171 /* WPICalendarEventCreatorAppIcon.png in Resources */,
 				C740ECF018AEC31400C3A701 /* me-chierichetti-profile.jpg in Resources */,
 				C74BF58318E3BB4F00856171 /* tutorial3.png in Resources */,
 				C740ECFB18AEC36500C3A701 /* me-demetriou-profile.jpg in Resources */,
@@ -2242,6 +2257,7 @@
 				C740EDC618AED73000C3A701 /* sports-and-recreation-center-complex.jpg in Resources */,
 				C740ECA318AEC0E900C3A701 /* math-formal-farr.jpg in Resources */,
 				2C3BEE971859533D00BC6753 /* borderTextView.png in Resources */,
+				C74BF58E18E4C2F000856171 /* rsz_wpicalendareventcreatorappicon.png in Resources */,
 				C740EC5A18AEBD3E00C3A701 /* hua-deloray-profile.jpg in Resources */,
 				C740ED5018AEC81F00C3A701 /* johnson-large-new.jpg in Resources */,
 				C751D56C18AB155C00CFA0FF /* cs-rich-formal.jpg in Resources */,
