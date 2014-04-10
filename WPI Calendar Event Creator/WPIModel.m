@@ -308,7 +308,7 @@ static WPIModel *sharedDataModel = nil;
     
     NSError* error;
     
-    //[self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
+    [self.eventStore saveEvent:event span:EKSpanThisEvent error:&error];
     
     
     
@@ -330,7 +330,8 @@ static WPIModel *sharedDataModel = nil;
 }
 
 -(NSString*)getICSFile {
-    NSString *title = [self getTitleForPurpose:1];
+    
+    NSString *title = ![(NSNumber*)[self.data valueForKey:@"Use Custom Professor"] boolValue] ? @"Appointment" : [self getTitleForPurpose:1];
     NSDate *sDate = [self getDateForPurpose:2];
     NSDate *eDate = [self getDateForPurpose:3];
     NSString *location = [self getLocation];
